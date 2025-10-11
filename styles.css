@@ -2185,7 +2185,7 @@
 
     .text-paragraph {
       font-family: calibri;
-      font-size: 1rem;
+      font-size: 0.7rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
@@ -3459,7 +3459,7 @@
 
 
     .menu-ldiv {
-      width: 25%;
+      min-width: 25%;
       margin-right: 0.5rem;
       background-color: rgba(240, 240, 240, 0.8);
     }
@@ -4912,6 +4912,7 @@
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
+      color:rgba(76,76,76);
     }
 
     .text-small {
@@ -6733,6 +6734,7 @@
 
     .main1 {
       width: 28%;
+            max-width: 50%;
       margin: 0% 0.5%;
       font-size: 1.2vw;
       font-family: sans-serif;
@@ -6741,13 +6743,14 @@
       line-height: 150%;
       text-align: left;
       text-decoration: none;
-      min-width: 350px;
+      min-width: 250px;
       order: 1;
-      flex-grow: 0.9;
+      flex-grow: 0.5;
     }
 
     .main2 {
       width: 28%;
+      max-width: 50%;
       margin: 0% 0.5%;
       font-size: 1.2vw;
       font-family: sans-serif;
@@ -6756,9 +6759,9 @@
       line-height: 150%;
       text-align: left;
       text-decoration: none;
-      min-width: 350px;
+      min-width: 250px;
       order: 2;
-      flex-grow: 0.9;
+      flex-grow: 0.5;
     }
 
 
