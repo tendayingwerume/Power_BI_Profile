@@ -123,15 +123,16 @@
 
 <form action="index.php" method="post">
         <div class="tr-div width-100" style="flex-direction:row;flex-wrap:nowrap">
-            <div class="tr-div menu-ldiv" style="background-color:rgba(49,49,49);padding:1rem;flex-direction:column">
+            <div class="tr-div menu-ldiv" style="background-color:rgba(49,49,49);padding:1rem 1rem;flex-direction:column">
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/assetreg-icon.png" class="dbitem-icon"><span style="width:95%"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap">Fixed Asset Portfolio</span></button></span></div>
+                <div class="td-div menuitemdb-div" style="height:2rem"><span style="width:95%"><span style="text-wrap: nowrap">PROJECTS PORTFOLIO</span></span></div>
+                <div class="td-div menuitemdb-div" style="height:2rem;margin-bottom:3rem"><span style="width:100%"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap"><img src="images/flexy-asset-logo.png" style="width:100%"></span></button></span></div>
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/staffacc-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openUneMIS()"><span style="text-wrap: nowrap">HIV Education in Schools</span></button></span></div>
+                <div class="td-div menuitemdb-div" style="height:2rem;margin-bottom:3rem"><span style="width:100%"><button type="button" class="dbmenu-link" onclick="openUneMIS()"><span style="text-wrap: nowrap"><img src="images/unemis-logo.jpg" style="width:100%"></span></button></span></div>
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/maint-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openCashLoan()"><span style="text-wrap: nowrap">Microlender Loan Analysis</span></button></span></div>
+                <div class="td-div menuitemdb-div" style="height:2rem;margin-bottom:3rem"><span style="width:100%"><button type="button" class="dbmenu-link" onclick="openCashLoan()"><span style="text-wrap: nowrap"><img src="images/micro-logo.jpg" style="width:100%"></span></button></span></div>
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/db-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openHomeWare()"><span style="text-wrap: nowrap">Home Ware Retail Analysis</span></button></span></div>
+                <div class="td-div menuitemdb-div" style="height:2rem;margin-bottom:3rem"><span style="width:100%"><button type="button" class="dbmenu-link" onclick="openHomeWare()"><span style="text-wrap: nowrap"><img src="images/retail-logo.jpg" style="width:100%"></span></button></span></div>
 
           
 
@@ -154,46 +155,72 @@
 
     <section class='section-pc'>
 
-                <div id="FlexyAsset" width=100%>
+                <div id="FlexyAsset" width=100% style="display:flex;flex-direction:column">
 
  <!--     <div width=100% style="margin-bottom:1rem"> -->
 <div style="height:2rem;text-wrap:nowrap"><x style="font-size:1.3rem;font-weight:bold;color:grey;margin:0 1rem">FIXED ASSET MANAGEMENT REPORTS</x><button type="button" class="button-save" onclick="CloseDashBoards()"><span style="text-wrap: nowrap;color:red">Close Dashboard</span></button></div>
   <!--       </div> -->
 
-                
-                    
-       <iframe title="Asset_Model_Tendayi" width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0OGI5ODQtNThiNC00YjEwLWEzMGYtZjkxOGI4MDhmYzZiIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-                 
-                </div>
+              <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;margin-bottom:2rem">
+                 <iframe title="Asset_Model_Tendayi"
+                  src="https://app.powerbi.com/view?r=eyJrIjoiZDM0OGI5ODQtNThiNC00YjEwLWEzMGYtZjkxOGI4MDhmYzZiIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9"
+                   frameborder="0" allowFullScreen="true"
+                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                   </iframe>
+            </div>
 
-                <div id="UneMIS" width=100%>
+</div>
+
+                <div id="UneMIS" width=100% width=100% style="display:flex;flex-direction:column">
 <div style="height:2rem;text-wrap:nowrap"><x style="font-size:1.3rem;font-weight:bold;color:grey;margin:0 1rem">HIV EDUCATION IN SCHOOLS</x><button type="button" class="button-save" onclick="CloseDashBoards()"><span style="text-wrap: nowrap;color:red">Close Dashboard</span></button></div>                    
-       <iframe title="Sexuality_Education_Tendayi" width="1140" height="521.25" src="https://app.powerbi.com/view?r=eyJrIjoiMWU3ZDkxY2QtNDI2MC00Yzk3LWFhOWEtODJjNjRkOWE4NjJhIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-                 
+   
+                     <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;margin-bottom:2rem">
+                 <iframe title="Sexuality_Education_Tendayi"
+                  src="https://app.powerbi.com/view?r=eyJrIjoiMWU3ZDkxY2QtNDI2MC00Yzk3LWFhOWEtODJjNjRkOWE4NjJhIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9"
+                   frameborder="0" allowFullScreen="true"
+                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                   </iframe>
+            </div>
+
+
+
                 </div>
               
 
-                <div id="CashLoan" width=100%>
+                <div id="CashLoan" width=100% width=100% style="display:flex;flex-direction:column">
         <div style="height:2rem;text-wrap:nowrap"><x style="font-size:1.3rem;font-weight:bold;color:grey;margin:0 1rem">MICRO LENDER PORTFOLIO ANALYSIS</x><button type="button" class="button-save" onclick="CloseDashBoards()"><span style="text-wrap: nowrap;color:red">Close Dashboard</span></button></div>
-       <iframe title="microlender_Tendayi" width="1140" height="521.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGJiN2NjNjAtNGFmMi00MDFkLWFhNjktNmQ0NmFlZGI2YjY5IiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-                 
+                            <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;margin-bottom:2rem">
+                 <iframe title="microlender_Tendayi"
+                  src="https://app.powerbi.com/view?r=eyJrIjoiMGJiN2NjNjAtNGFmMi00MDFkLWFhNjktNmQ0NmFlZGI2YjY5IiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9"
+                   frameborder="0" allowFullScreen="true"
+                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                   </iframe>
+            </div>
+       
+
                 </div>
 
 
-                <div id="HomeWare" width=100%>
+                <div id="HomeWare" width=100% width=100% style="display:flex;flex-direction:column">
         <div style="height:2rem;text-wrap:nowrap"><x style="font-size:1.3rem;font-weight:bold;color:grey;margin:0 1rem">RETAIL BUSINESS REPORTS</x><button type="button" class="button-save" onclick="CloseDashBoards()"><span style="text-wrap: nowrap;color:red">Close Dashboard</span></button></div>
-       <iframe title="Retail_Model_Tendayi" width="1140" height="521.25" src="https://app.powerbi.com/view?r=eyJrIjoiOWFmMzkzNDgtNGJlZC00OGE2LWI3MjMtZmEyYzYyZWExOTFjIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-                 
+                              <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;margin-bottom:2rem">
+                 <iframe title="Retail_Model_Tendayi"
+                  src="https://app.powerbi.com/view?r=eyJrIjoiOWFmMzkzNDgtNGJlZC00OGE2LWI3MjMtZmEyYzYyZWExOTFjIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9"
+                   frameborder="0" allowFullScreen="true"
+                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                   </iframe>
+            </div>        
                 </div>
 
 
 
 
                 <section class="mainsec">
-                    <section class="main1" style="padding:0.5rem;border-style:solid;border-width:thin;border-color:silver;background-color:silver">
+                    <section class="main1" style="padding:0;border-style:solid;border-width:thin;border-color:silver;background-color:silver">
+                        <div width=100% style="background-color:rgba(49,49,49);color:white;padding:0 1rem;color:silver">Basic Information</div>
                         <div class="td-center"><img src="images/tendayi-main.png" class='td-left' Alt="Tendayi" style='text-align:flex-start'></div>
                         <div width=100%>
-                            <p class="text-paragraph">I am Tendayi Ngwerume, an experienced Software Developer with over 30 years in the IT industry. 
+                            <p class="text-paragraph">I am <b>Tendayi Ngwerume</b>, an experienced Software Developer with over 30 years in the IT industry. 
                                 My expertise spans custom software development, data analysis, and business intelligence, with a growing focus on Power BI for impactful decicion-making.<br><br>
                                 I am passionate about building systems that solve real problems, from operational process management systems to
                                  insightful BI dashboards. Explore my work here to see practical examples of how I transform data and technology into clear, actionable insights.</p>

@@ -3459,13 +3459,13 @@
 
 
     .menu-ldiv {
-      min-width: 25%;
+      min-width: 20%;
       margin-right: 0.5rem;
       background-color: rgba(240, 240, 240, 0.8);
     }
 
     .menu-rdiv {
-      width: 75%;
+      width: 80%;
       display: flex;
       flex-direction: column;
       padding: 0 1rem;
