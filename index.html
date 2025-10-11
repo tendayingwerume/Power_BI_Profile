@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <!-- <link rel="icon" href="https://www.flexyasset.com/images/ombu-icon.jpg">
+    <!-- <link rel="icon" href="https://www.FlexyAsset.com/images/ombu-icon.jpg">
 <title>OMBU Capital Grant Management System</title> -->
 
     <script type="text/javascript" src="animation.js"></script>
@@ -36,308 +36,30 @@
 <form action="index.php" method="post">
         <div class="tr-div width-100" style="flex-direction:row;flex-wrap:nowrap">
             <div class="tr-div menu-ldiv" style="background-color:rgba(49,49,49);padding:1rem;flex-direction:column">
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/db-icon.png" class="dbitem-icon"><span style="width:95%"><input type="submit" name="dashboard" value="Dashboard" class="dbmenu-link"></span></div>
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/db-icon.png" class="dbitem-icon"><span style="width:95%"><input type="submit" name="dashboardpbi" value="Dashboard - Power BI" class="dbmenu-link"></span></div>
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/sysparam-icon.png" class="dbitem-icon"><span style="width:95%"><button type="button" class="dbmenu-link" onclick="openSysParams()"><span>System Parameters</span></button></span></div>
-                <div id="SysParams" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">LOCATION DIMENSIONS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addcountry.php" class="dbsubmenu-link">Countries</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addregions.php" class="dbsubmenu-link">Regions</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addtowns.php" class="dbsubmenu-link">Towns</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addsuburbs.php" class="dbsubmenu-link">Suburbs</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PEOPLE DIMENSIONS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addjobtitles.php" class="dbsubmenu-link">Job Titles</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addroles.php" class="dbsubmenu-link">Roles</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">COMPANY DIMENSIONS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/adddept.php" class="dbsubmenu-link">Departments</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/adddivision.php" class="dbsubmenu-link">Divisions</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addcompany.php" class="dbsubmenu-link">Companies</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addclient.php" class="dbsubmenu-link">Clients</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addsectors.php" class="dbsubmenu-link">Sectors</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PARTNERS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addpartners.php" class="dbsubmenu-link">Business partners</a></li>
-                    </ul>
-                </div>
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/assetreg-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openAssetReg()"><span>Asset Register</span></button></span></div>
-                <div id="AssetReg" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">ASSET RECORDS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addassetHD.php" class="dbsubmenu-link">Add New Asset</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetregisterHD.php" class="dbsubmenu-link">Update Asset Details</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetregisterHD.php" class="dbsubmenu-link">View Asset Details</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">P A R A M E T E R S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetclassHD.php" class="dbsubmenu-link">Maintain Asset Classes</a></li>
-                    </ul>
-                </div>
+                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/assetreg-icon.png" class="dbitem-icon"><span style="width:95%"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span>Fixed Asset Portfolio</span></button></span></div>
 
+                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/staffacc-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openUneMIS()"><span>Sexuality Education in Schools</span></button></span></div>
 
+                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/maint-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openCashLoan()"><span>Microlender Loan Analysis</span></button></span></div>
 
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/inventory-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openAssetInventory()"><span>Inventory Reports</span></button></span></div>
-                <div id="AssetInventory" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">ASSET INVENTORY</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/invAllHD.php" class="dbsubmenu-link">Overall Inventory</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/invLocHD.php" class="dbsubmenu-link">Inventory By Location</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/invCosHD.php" class="dbsubmenu-link">Inventory By Cost Center</a></li>
-                    </ul>
-                </div>
+                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/db-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openHomeWare()"><span>Home Ware Retail Analysis</span></button></span></div>
 
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/verification-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openAssetVerification()"><span>Asset Verification</span></button></span></div>
-                <div id="AssetVerification" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">T R A N S A C T I O N S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/verificationHD.php" class="dbsubmenu-link">Enter Asset Verification</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/verificationVH.php" class="dbsubmenu-link">View Asset Verification</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                    </ul>
-                </div>
-
-
-
-
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/disposal-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openDepRepMenu()"><span>Depreciation Reports</span></button></span></div>
-                <div id="DepRepMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">D E P R E C I A T I O N</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/depreportsHD.php" class="dbsubmenu-link">Depreciation Report</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">ASSET VALUATION</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/valuationHD.php" class="dbsubmenu-link">Valuation Reports</a></li>
-                    </ul>
-                </div>
-
-
-
-
-
-
-
-
+                <!--<div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/disposal-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openDepRepMenu()"><span>Depreciation Reports</span></button></span></div>
 
                 <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/amo-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openArmoTization()"><span>Armotization Contracts</span></button></span></div>
-                <div id="ArmoTization" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">CONTRACT MAINTENANCE</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/contractsHD.php" class="dbsubmenu-link">Create New Contract</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/contractsHD.php" class="dbsubmenu-link">Update Contract Details</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/contractsHD.php" class="dbsubmenu-link">Assign Contract Equipment</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/contractsHD.php" class="dbsubmenu-link">View Contract Details</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">T R A N S A C T I O N S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Enter New Transaction</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update Transactions</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View Transactions</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">MANAGEMENT REPORTS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Transaction Reports</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Contract Status Reports</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Performance Reports</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PARAMETERS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Contract Types</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Amortization Units</a></li>
-
-                    </ul>
-                </div>
+ 
                 <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/fsms-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openServiceDeskMenu()"><span>Field Service Management</span></button></span></div>
-                <div id="ServiceDeskMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">SERVICE DESK</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintlogHD.php" class="dbsubmenu-link">Log New Call</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintenanceHD.php" class="dbsubmenu-link">Update Call</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintallocHD.php" class="dbsubmenu-link">Allocate Jobs</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/jobscheduleHD.php" class="dbsubmenu-link">Job Scheduling</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintenquiryHD.php" class="dbsubmenu-link">Job Enquiries</a></li>
-                        <!--                        <li  class="listitem-div" style="background-color:lavender"><x class="dbsubmenu-link" style="color:black">FIELD SERVICE REPORTS</x></li>
-                        <li  class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Call Reports</a></li>
-                        <li  class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Performance Metrics</a></li> -->
-                    </ul>
-                </div>
-
+                
                 <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/mainticon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openMaintMenu()"><span>Maintenance</span></button></span></div>
-                <div id="MaintMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">JOB CARD MAINTENANCE</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintlogHD.php" class="dbsubmenu-link">Create New Job Card</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintenanceHD.php" class="dbsubmenu-link">Update Job cards</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintenanceHD.php" class="dbsubmenu-link">View Job cards</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/fixjobdetails.php" class="dbsubmenu-link">Fix Job Stats</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">MAINTENANCE REPORTS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintrepPH.php" class="dbsubmenu-link">Job Allocation Reports</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintrepPH.php" class="dbsubmenu-link">Job Card Reports</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/maintrepPH.php" class="dbsubmenu-link">Maintenance History</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Parts Usage & Labour</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Failure Analysis Reports</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Performance Metrics</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PARAMETERS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addfaultcodes.php" class="dbsubmenu-link">Fault Codes</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/adddiagcodes.php" class="dbsubmenu-link">Diagnosis Codes</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addfixcodes.php" class="dbsubmenu-link">Fix Codes</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addcallcategory.php" class="dbsubmenu-link">Call Categories</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/addmainttype.php" class="dbsubmenu-link">Maintenance Types</a></li>
-                    </ul>
-                </div>
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/schedule-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openMaintSchMenu()"><span>Maintenance Schedules</span></button></span></div>
-                <div id="MaintSchMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">MAINTENANCE SCHEDLUES</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Automated Schedules</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Create Manual Schedules</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update Manual Schedules</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View Maintenance Schedules</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PARAMETERS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Enable/ Disable Auto Scheduling</a></li>
-                    </ul>
-                </div>
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/utilisation-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openUtilisationMenu()"><span>Utilisation & Availability Status</span></button></span></div>
-                <div id="UtilisationMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">UTILIZATION DATA</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/utilisationAH.php" class="dbsubmenu-link">Add Activity Details</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/utilisationHD.php" class="dbsubmenu-link">Update Activity Details</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/utilisationRH.php" class="dbsubmenu-link">Utilisation Reports</a></li>
-                        <!--                        <li  class="listitem-div" style="background-color:lavender"><x class="dbsubmenu-link" style="color:black">AVAILABILITY STATUS</x></li>
-                        <li  class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update Availability Status</a></li>
-                        <li  class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View Availability Status</a></li>  -->
-                    </ul>
-                </div>
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/assmove-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openAssetMovement()"><span>Asset Movements</span></button></span></div>
-                <div id="AssetMovement" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">T R A N S A C T I O N S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/voucherassetHD.php" class="dbsubmenu-link">Create Asset Movement</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetmovementHD.php" class="dbsubmenu-link">Update Asset Movements</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetmovementVH.php" class="dbsubmenu-link">View Asset Movements</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">MOVEMENT REPORTS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assmovementrepPH.php" class="dbsubmenu-link">Asset Movement History</a></li>
-                    </ul>
-                </div>
-
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/disposal-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openAssetDisposal()"><span>Asset Disposal</span></button></span></div>
-                <div id="AssetDisposal" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">T R A N S A C T I O N S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/voucherdisposalHD.php" class="dbsubmenu-link">Create Asset Disposal</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetdisposalHD.php" class="dbsubmenu-link">Update Asset Disposal</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assetdisposalVH.php" class="dbsubmenu-link">View Asset Disposal</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">DISPOSAL REPORTS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/assdisposalrepPH.php" class="dbsubmenu-link">Asset Disposal Reports</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">P A R A M E T E R S</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Disposal Methods</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Reasons For Disposal</a></li>
-                    </ul>
-                </div>
-
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/staffac-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openStaffAccounts()"><span>Staff Accounts</span></button></span></div>
-                <div id="StaffAccounts" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/registerstaff.php" class="dbsubmenu-link">Add New Employee</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/updatestaffHD.php" class="dbsubmenu-link">Update Employee Details</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Job Titles</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/adddept.php" class="dbsubmenu-link">Departments</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/accountupdate.php" class="dbsubmenu-link">Update Own Account</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/passwordchange.php" class="dbsubmenu-link">Change Own Password</a></li>
-                    </ul>
-                </div>
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/bulletin-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openBulletinMenu()"><span>Bulletin Board</span></button></span></div>
-                <div id="BulletinMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">BULLETIN MAINTENANCE</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Create Notices</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update Notices</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View Bulletin Board</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">PARAMETERS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Notice Categories</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Audience Codes</a></li>
-                    </ul>
-                </div>
-
-                <div class="td-div menuitemdb-div" style="height:2rem"><img src="images/icons/todo-icon.png" class="dbitem-icon"><span style="width:90%"><button type="button" class="dbmenu-link" onclick="openToDoMenu()"><span>To-Do List</span></button></span></div>
-                <div id="ToDoMenu" style="margin-left:8%">
-                    <ul class="dbsubmenu-params" style="margin-top:0;padding-top:0">
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">ASSIGNED TASKS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View My To-Do List</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update Action Items</a></li>
-                        <li class="listitem-div" style="background-color:lavender">
-                            <x class="dbsubmenu-link" style="color:black">CREATE/ ASSIGN TASKS</x>
-                        </li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Create To-Do Item</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">Update To-Do Item</a></li>
-                        <li class="listitem-div"><a href="http://www.flexyasset.com/flforms/reportsPH.php" class="dbsubmenu-link">View To-Do Items</a></li>
-                    </ul>
-                </div>
-
+            -->
 
 
                 <div style="height:1rem;width:100%;background:none"></div>
                 <section class="section-pc">
                     <div style="background:rgba(76,76,76);padding:0.5rem;text-align:center;margin-top:1rem;color:rgba(255,255,255,0.6)">
                         <small>
-                            Foundation For Business Technology cc<br>
+                            Tendayi Ngwerume<br>
                             Email: fbt@iway.na<br>
                             Mobile: +264 81 255 0417
                         </small>
@@ -348,12 +70,33 @@
 
     </form>
 
+
     <section class='section-pc'>
 
-<div width=100%>          
-<!--   <iframe title="Asset_Model_Tendayi" width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0OGI5ODQtNThiNC00YjEwLWEzMGYtZjkxOGI4MDhmYzZiIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe> -->
+                <div id="FlexyAsset" width=100%>
        <iframe title="Asset_Model_Tendayi" width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZDM0OGI5ODQtNThiNC00YjEwLWEzMGYtZjkxOGI4MDhmYzZiIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-    </div>
+                 
+                </div>
+
+                <div id="UneMIS" width=100%>
+       <iframe title="Sexuality_Education_Tendayi" width="1140" height="521.25" src="https://app.powerbi.com/view?r=eyJrIjoiMWU3ZDkxY2QtNDI2MC00Yzk3LWFhOWEtODJjNjRkOWE4NjJhIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+                 
+                </div>
+              
+
+                <div id="CashLoan" width=100%>
+       <iframe title="microlender_Tendayi" width="1140" height="521.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGJiN2NjNjAtNGFmMi00MDFkLWFhNjktNmQ0NmFlZGI2YjY5IiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+                 
+                </div>
+
+
+                <div id="HomeWare" width=100%>
+       <iframe title="Retail_Model_Tendayi" width="1140" height="521.25" src="https://app.powerbi.com/view?r=eyJrIjoiOWFmMzkzNDgtNGJlZC00OGE2LWI3MjMtZmEyYzYyZWExOTFjIiwidCI6ImJiNmVlMjIyLWUxZDQtNDc0NC1hNDU0LThlNDI0MjY1YjVjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+                 
+                </div>
+
+
+</section>
 
 
 
@@ -361,289 +104,36 @@
 
 
     <script>
-        function openSysParams() {
-            document.getElementById("SysParams").style.display = "flex";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
+        function openFlexyAsset() {
+            document.getElementById("FlexyAsset").style.display = "flex";
+            document.getElementById("UneMIS").style.display = "none";
+            document.getElementById("CashLoan").style.display = "none";
+            document.getElementById("HomeWare").style.display = "none";
 
         }
 
-        function openAssetReg() {
-            document.getElementById("AssetReg").style.display = "flex";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
+        function openUneMIS() {
+            document.getElementById("UneMIS").style.display = "flex";
+            document.getElementById("FlexyAsset").style.display = "none";
+            document.getElementById("CashLoan").style.display = "none";
+            document.getElementById("HomeWare").style.display = "none";
 
-        function openArmoTization() {
-            document.getElementById("ArmoTization").style.display = "flex";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-        function openMaintMenu() {
-            document.getElementById("MaintMenu").style.display = "flex";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-        function openAssetMovement() {
-            document.getElementById("AssetMovement").style.display = "flex";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-        function openStaffAccounts() {
-            document.getElementById("StaffAccounts").style.display = "flex";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-        function openAssetInventory() {
-            document.getElementById("AssetInventory").style.display = "flex";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-        function openAssetDisposal() {
-            document.getElementById("AssetDisposal").style.display = "flex";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
         }
 
 
-
-        function openServiceDeskMenu() {
-            document.getElementById("ServiceDeskMenu").style.display = "flex";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
+        function openCashLoan() {
+            document.getElementById("CashLoan").style.display = "flex";
+            document.getElementById("UneMIS").style.display = "none";
+            document.getElementById("FlexyAsset").style.display = "none";
+            document.getElementById("HomeWare").style.display = "none";
         }
 
-
-
-        function openMaintSchMenu() {
-            document.getElementById("MaintSchMenu").style.display = "flex";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-
-        function openUtilisationMenu() {
-            document.getElementById("UtilisationMenu").style.display = "flex";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-
-
-        function openBulletinMenu() {
-            document.getElementById("BulletinMenu").style.display = "flex";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-
-        function openToDoMenu() {
-            document.getElementById("ToDoMenu").style.display = "flex";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-
-
-
-        function openDepRepMenu() {
-            document.getElementById("DepRepMenu").style.display = "flex";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
-            document.getElementById("AssetVerification").style.display = "none";
-        }
-
-
-
-
-
-        function openAssetVerification() {
-            document.getElementById("AssetVerification").style.display = "flex";
-            document.getElementById("DepRepMenu").style.display = "none";
-            document.getElementById("ToDoMenu").style.display = "none";
-            document.getElementById("BulletinMenu").style.display = "none";
-            document.getElementById("UtilisationMenu").style.display = "none";
-            document.getElementById("AssetDisposal").style.display = "none";
-            document.getElementById("AssetInventory").style.display = "none";
-            document.getElementById("StaffAccounts").style.display = "none";
-            document.getElementById("AssetMovement").style.display = "none";
-            document.getElementById("MaintMenu").style.display = "none";
-            document.getElementById("ArmoTization").style.display = "none";
-            document.getElementById("SysParams").style.display = "none";
-            document.getElementById("AssetReg").style.display = "none";
-            document.getElementById("ServiceDeskMenu").style.display = "none";
-            document.getElementById("MaintSchMenu").style.display = "none";
+        function openHomeWare() {
+            document.getElementById("HomeWare").style.display = "flex";
+            document.getElementById("UneMIS").style.display = "none";
+            document.getElementById("FlexyAsset").style.display = "none";
+            document.getElementById("CashLoan").style.display = "none";
+            
         }
 
 </script>
