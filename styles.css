@@ -2192,6 +2192,15 @@
     }
 
 
+    .text-paragraph-s {
+      font-family: calibri;
+      font-size: 0.5rem;
+      line-height: 120%;
+      text-align: justify;
+      padding: 0% 2%;
+    }
+
+
     .text-news {
       font-family: arial;
       font-size: 14px;
@@ -2700,11 +2709,10 @@
       flex-wrap: no-wrap;
       background-color: rgb(76, 76, 76);
       color: white;
-      padding: 0px;
       font-size: 0.9rem;
       font-family: arial;
       border: none;
-      padding: 1rem 0.5rem 0 0.5rem;
+      padding: 0.5rem 0.5rem 0 0.5rem;
       border-style: none;
       letter-spacing: 0.4rem;
       z-index: 22;
@@ -3074,69 +3082,8 @@
       display: none;
     }
 
-    #ArmoTization {
-      display: none;
-    }
-
-    #MaintMenu {
-      display: none;
-    }
-
-    #AssetMovement {
-      display: none;
-    }
-
-
-    #AssetMovement {
-      display: none;
-    }
-
+   
     #CashLoan {
-      display: none;
-    }
-
-
-    #AssetDisposal {
-      display: none;
-    }
-
-    #UtilisationMenu {
-      display: none;
-    }
-
-    #MaintSchMenu {
-      display: none;
-    }
-
-
-    #ServiceDeskMenu {
-      display: none;
-    }
-
-
-    #StaffAccounts {
-      display: none;
-    }
-
-    #UtilisationMenu {
-      display: none;
-    }
-
-    #MaintSchMenu {
-      display: none;
-    }
-
-
-
-    #BulletinMenu {
-      display: none;
-    }
-
-    #ToDoMenu {
-      display: none;
-    }
-
-    #DepRepMenu {
       display: none;
     }
 
@@ -3144,7 +3091,41 @@
       display: none;
     }
 
+    #WorkHistory {
+      display: none;
+    }
 
+    #Hobbies {
+      display: none;
+    }
+
+
+
+    #FlexyAsset-mob {
+      display: none;
+    }
+
+    #UneMIS-mob {
+      display: none;
+    }
+
+   
+    #CashLoan-mob {
+      display: none;
+    }
+
+    #HomeWare-mob {
+      display: none;
+    }
+
+
+    #WorkHistory-mob {
+      display: none;
+    }
+
+    #Hobbies-mob {
+      display: none;
+    }
 
 
 
@@ -3468,7 +3449,8 @@
       width: 80%;
       display: flex;
       flex-direction: column;
-      padding: 0 1rem;
+      padding: 0;
+      margin:0;
     }
 
 
@@ -3494,7 +3476,7 @@
       font-family: arial;
       font-weight: lighter;
       background: none;
-      font-size: 1rem;
+      font-size: 1.2rem;
       width: 95%;
       text-align: left;
       padding: 0.2rem 0.5rem;
@@ -3509,7 +3491,6 @@
       border-style: solid;
       border-color: grey;
       border-width: 0 0 thin 0;
-      background-color: silver;
       color: black;
     }
 
@@ -3526,26 +3507,52 @@
       display: none;
     }
 
-    #ArmoTization {
-      display: none;
-    }
-
-    #MaintMenu {
-      display: none;
-    }
-
-    #AssetMovement {
-      display: none;
-    }
-
-
-    #AssetMovement {
-      display: none;
-    }
 
     #CashLoan {
       display: none;
     }
+
+
+    #HomeWare {
+      display: none;
+    }
+
+    #WorkHistory {
+      display: none;
+    }
+
+    #Hobbies {
+      display: none;
+    }
+
+
+    #FlexyAsset-mob {
+      display: none;
+    }
+
+    #UneMIS-mob {
+      display: none;
+    }
+
+
+    #CashLoan-mob {
+      display: none;
+    }
+
+
+    #HomeWare-mob {
+      display: none;
+    }
+
+
+    #WorkHistory-mob {
+      display: none;
+    }
+
+    #Hobbies-mob {
+      display: none;
+    }
+
 
 
     #AssetDisposal {
@@ -3592,10 +3599,6 @@
       display: none;
     }
 
-
-    #HomeWare {
-      display: none;
-    }
 
 
 
@@ -4915,6 +4918,16 @@
       color:rgba(76,76,76);
     }
 
+    .text-paragraph-s {
+      font-family: calibri;
+      font-size: 1rem;
+      text-align: justify;
+      line-height: 120%;
+      text-align: justify;
+      padding: 0 2rem;
+      color:rgba(76,76,76);
+    }
+
     .text-small {
       font-family: arial;
       font-size: 13px;
@@ -4987,16 +5000,15 @@
       flex-wrap: no-wrap;
       background-color: rgb(76, 76, 76);
       color: white;
-      padding: 0px;
       font-size: 0.9rem;
       font-family: arial;
       font-weight: normal;
       border: none;
-      padding: 1rem 0.5rem 0 0.5rem;
+      padding: 0.4rem 0.5rem 0 0.5rem;
       border-style: none;
       letter-spacing: 0.2rem;
       z-index: 22;
-      margin: 1rem 0rem 0.1rem 0rem;
+      margin: 0rem 0rem 0.1rem 0rem;
       white-space: nowrap;
     }
 
