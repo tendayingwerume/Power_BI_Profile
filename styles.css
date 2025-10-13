@@ -943,6 +943,8 @@
 
     }
 
+
+
     .main1 {
       width: 100%;
       flex-direction: row;
@@ -8696,9 +8698,9 @@ order:2;
 
 
   }
-</style>
 
-<style id="print-css">
+
+
   @media only print and (min-width: 0px) {
 
     .window-frame {
@@ -8710,4 +8712,3 @@ order:2;
       display: none;
     }
   }
-</style>
