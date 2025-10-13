@@ -31,7 +31,8 @@
 
     .tr-div {
       display: flex;
-      flex-wrap: nowrap;
+      flex-direction:column;
+      flex-wrap: wrap;
       justify-content: center;
     }
 
