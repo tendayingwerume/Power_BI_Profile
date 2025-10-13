@@ -3030,13 +3030,13 @@
 
 
     .menu-ldiv {
-      width: 100%;
+      width: 90%;
       margin-right: 0;
       background-color: rgba(240, 240, 240, 0.8);
     }
 
     .menu-rdiv {
-      width: 100%;
+      width: 10%;
       display: flex;
       flex-direction: column;
       padding: 0rem;
