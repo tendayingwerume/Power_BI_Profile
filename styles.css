@@ -954,7 +954,7 @@
       line-height: 130%;
       text-align: left;
       text-decoration: none;
-      min-width: auto;
+      min-width: 350px;
       order: 1;
       flex-grow: 0.5;
     }
@@ -971,7 +971,7 @@
       line-height: 150%;
       text-align: left;
       text-decoration: none;
-      min-width: auto;
+      min-width: 350px;
       order: 2;
       flex-grow: 0.5;
     }
@@ -3070,7 +3070,7 @@
     }
 
     .dbitem-icon {
-      width: 6%;
+      width: 30%;
       opacity: 0.7;
     }
 
@@ -3495,7 +3495,7 @@
     }
 
     .dbitem-icon {
-      width: 4%;
+      width: 100%;
       opacity: 0.7;
     }
 
@@ -6755,7 +6755,7 @@
       line-height: 150%;
       text-align: left;
       text-decoration: none;
-      min-width: 250px;
+      min-width: 350px;
       order: 1;
       flex-grow: 0.5;
     }
@@ -6771,7 +6771,7 @@
       line-height: 150%;
       text-align: left;
       text-decoration: none;
-      min-width: 250px;
+      min-width: 350px;
       order: 2;
       flex-grow: 0.5;
     }
@@ -8393,7 +8393,7 @@ order:2;
 
 
     .dbitem-icon {
-      width: 4%;
+      width: 100%;
       opacity: 0.7;
     }
 
