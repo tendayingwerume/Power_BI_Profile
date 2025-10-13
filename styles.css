@@ -34,7 +34,6 @@
       flex-direction:column;
       flex-wrap: wrap;
       justify-content: space-evenly;
-      height:500vh;
       align-items:center;
       position:relative;
     }
