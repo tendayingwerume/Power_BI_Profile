@@ -2189,7 +2189,7 @@
 
     .text-paragraph {
       font-family: calibri;
-      font-size: 0.7rem;
+      font-size: 1rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
@@ -2198,7 +2198,7 @@
 
     .text-paragraph-s {
       font-family: calibri;
-      font-size: 0.5rem;
+      font-size: 0.9rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
