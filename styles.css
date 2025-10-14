@@ -1716,6 +1716,9 @@
       cursor: pointer;
     }
 
+    .button-text{
+      font-size:3rem;
+    }
 
     .button-save-s {
       padding: 0.25rem 1rem;
