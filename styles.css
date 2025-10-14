@@ -1700,13 +1700,13 @@
 
     .button-save {
       padding: 0.25rem 2rem;
-      font-size: 0.1rem;
+      font-size: 0.7rem;
       background: none;
       border-style: solid;
       text-decoration: none;
       border-width: thin;
       border-radius: 0.2rem;
-      margin-left: 0.5rem;
+      margin: 0.5rem 2rem;
       color: grey;
       border-color: grey;
       font-weight: 550;
