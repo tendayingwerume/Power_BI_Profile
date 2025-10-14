@@ -2189,19 +2189,21 @@
 
     .text-paragraph {
       font-family: calibri;
-      font-size: 2rem;
+      font-size: 1.5rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
+            color:rgba(46,46,46);
     }
 
 
     .text-paragraph-s {
       font-family: calibri;
-      font-size: 1.5rem;
+      font-size: 1.2rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
+      color:rgba(46,46,46);
     }
 
 
