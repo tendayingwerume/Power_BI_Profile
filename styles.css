@@ -2712,7 +2712,7 @@
       flex-direction: row;
       flex-wrap: no-wrap;
       background-color: rgb(76, 76, 76);
-      color: white;
+      color: red;
       font-size: 3rem;
       font-family: arial;
       border: none;
@@ -5015,7 +5015,7 @@
       flex-direction: row;
       flex-wrap: no-wrap;
       background-color: rgb(76, 76, 76);
-      color: red;
+      color: white;
       font-size: 1rem;
       font-family: arial;
       font-weight: normal;
