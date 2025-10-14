@@ -3452,7 +3452,7 @@
 
 
     .menu-ldiv {
-      width: 20%;
+      min-width: 100%;
       margin-right: 0.5rem;
       background-color: rgba(240, 240, 240, 0.8);
     }
