@@ -3095,6 +3095,10 @@
       color:white;
     }
 
+    .h2-text {
+      font-size:3rem;
+    }
+
     #FlexyAsset {
       display: none;
     }
@@ -3522,6 +3526,10 @@
 
     .portfolio-title{
       font-size:1.2rem;
+    }
+
+    .h2-text {
+      font-size:2rem;
     }
 
     #FlexyAsset {
