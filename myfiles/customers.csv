@@ -1,0 +1,342 @@
+customer_id,customer_name,customer_city,customer_country,customer_zip,customer_age,customer_gender,marital_status,ethnicity
+1001,Sophie Martin,Paris,France,69001,34,Female,Single,White
+1002,Louis Dubois,Paris,France,75001,39,Male,Married,White
+1017,Lucas Müller,Berlin,Germany,10115,41,Male,Married,White
+1018,Emma Schneider,Berlin,Germany,80331,28,Female,Single,White
+1005,Kwame Mensah,Accra,Ghana,GA001,43,Male,Married,Black
+1006,Ama Boateng,Accra,Ghana,AK002,30,Female,Single,Black
+1034,Giulia Bianchi,Milan,Italy,20100,32,Female,Single,White
+1035,Alessandro Rossi,Milan,Italy,100,44,Male,Married,White
+1003,Mary Wambui,Nairobi,Kenya,80100,29,Female,Single,Black
+1004,Peter Mwangi,Nairobi,Kenya,100,45,Male,Married,Black
+1031,Jane Iipinge,Windhoek,Namibia,12009,25,Female,Single,Black
+1032,Joseph Mutorwa,Windhoek,Namibia,12010,40,Male,Married,Black
+1033,Isaac Van Wyk,Windhoek,Namibia,12011,55,Male,Married,White
+1007,Chinwe Nwosu,Lagos,Nigeria,900001,34,Female,Single,Black
+1008,John Okeke,Lagos,Nigeria,100001,39,Male,Married,Black
+1038,Adam Nowak,Warsaw,Poland,00-001,38,Male,Married,White
+1036,Pedro Silva,Lisbon,Portugal,1100,42,Male,Married,White
+1037,Maria Oliveira,Porto,Portugal,4000,27,Female,Single,White
+1009,Naledi Molefe,Cape Town,South Africa,2,27,Female,Single,Black
+1010,Thabo Dlamini,Johannesburg,South Africa,2000,41,Male,Married,Black
+1013,Laura Fernandez,Barcelona,Spain,8001,31,Female,Single,Hispanic
+1014,Pablo García,Madrid,Spain,28001,35,Male,Married,Hispanic
+1015,Anna Karlsson,Gothenburg,Sweden,41100,33,Female,Single,White
+1016,Johan Svensson,Stockholm,Sweden,11120,46,Male,Married,White
+1011,Jack Smith,London,UK,EC1A,37,Male,Married,White
+1012,Olivia Johnson,London,UK,M1,29,Female,Single,Black
+1019,Michael Johnson,Chicago,USA,60601,36,Male,Married,Black
+1020,Mia Clark,Columbus,USA,43004,30,Female,Single,Hispanic
+1021,James Taylor,Dallas,USA,75201,40,Male,Married,White
+1022,Sarah Wilson,Houston,USA,77001,31,Female,Single,White
+1023,Ethan Harris,Jacksonville,USA,32201,45,Male,Married,White
+1024,Emily Davis,Los Angeles,USA,90001,29,Female,Single,Hispanic
+1025,John Miller,New York,USA,10001,42,Male,Married,White
+1041,Ian Jones,New York,USA,95101,47,Male,Single,White
+1026,William Thomas,Philadelphia,USA,19101,38,Male,Single,Black
+1027,David Brown,Phoenix,USA,85001,47,Male,Married,White
+1028,Isabella Lee,San Antonio,USA,78201,27,Female,Single,Asian
+1029,Sophia Martinez,San Diego,USA,92101,26,Female,Single,Hispanic
+1030,Olivia Anderson,San Jose,USA,95101,33,Female,Married,Asian
+1040,Chipo Phiri,Kitwe,Zambia,50100,32,Female,Single,Black
+1039,Joseph Banda,Lusaka,Zambia,10101,36,Male,Married,Black
+1042,Sophie Martin,Paris,France,69001,34,Female,Single,White
+1043,Louis Dubois,Paris,France,75001,25,Male,Married,White
+1044,Louis Dubois,Paris,France,75001,55,Female,Married,White
+1045,Louis Dubois,Paris,France,75001,32,Female,Married,White
+1046,Louis Dubois,Paris,France,75001,46,Male,Married,White
+1047,Louis Dubois,Paris,France,75001,31,Male,Married,White
+1048,Louis Dubois,Paris,France,75001,30,Male,Married,White
+1049,Louis Dubois,Paris,France,75001,45,Male,Married,White
+1050,Louis Dubois,Paris,France,75001,45,Female,Married,White
+1051,Louis Dubois,Paris,France,75001,54,Male,Married,White
+1052,Louis Dubois,Paris,France,75001,22,Female,Married,White
+1053,Lucas Müller,Berlin,Germany,10115,40,Male,Married,White
+1054,Emma Schneider,Berlin,Germany,80331,32,Female,Single,White
+1055,Emma Schneider,Berlin,Germany,80331,39,Male,Single,White
+1056,Emma Schneider,Berlin,Germany,80331,22,Male,Single,White
+1057,Emma Schneider,Berlin,Germany,80331,46,Female,Single,White
+1058,Emma Schneider,Berlin,Germany,80331,55,Female,Single,White
+1059,Emma Schneider,Berlin,Germany,80331,51,Female,Single,White
+1060,Emma Schneider,Berlin,Germany,80331,24,Male,Single,White
+1061,Emma Schneider,Berlin,Germany,80331,32,Male,Single,White
+1062,Emma Schneider,Berlin,Germany,80331,30,Female,Single,White
+1063,Emma Schneider,Berlin,Germany,80331,20,Female,Single,White
+1064,Emma Schneider,Berlin,Germany,80331,17,Male,Single,White
+1065,Emma Schneider,Berlin,Germany,80331,55,Female,Single,White
+1066,Kwame Mensah,Accra,Ghana,GA001,42,Male,Married,Black
+1067,Ama Boateng,Accra,Ghana,AK002,25,Female,Single,Black
+1068,Ama Boateng,Accra,Ghana,AK003,50,Female,Single,Black
+1069,Ama Boateng,Accra,Ghana,AK004,33,Male,Single,Black
+1070,Ama Boateng,Accra,Ghana,AK005,41,Male,Single,Black
+1071,Ama Boateng,Accra,Ghana,AK006,30,Female,Single,Black
+1072,Ama Boateng,Accra,Ghana,AK007,24,Female,Single,Black
+1073,Ama Boateng,Accra,Ghana,AK008,27,Female,Single,Black
+1074,Ama Boateng,Accra,Ghana,AK009,25,Female,Single,Black
+1075,Giulia Bianchi,Milan,Italy,20100,45,Female,Single,White
+1076,Alessandro Rossi,Milan,Italy,100,30,Male,Married,White
+1077,Alessandro Rossi,Milan,Italy,100,35,Male,Married,White
+1078,Alessandro Rossi,Milan,Italy,100,35,Male,Married,White
+1079,Alessandro Rossi,Milan,Italy,100,20,Female,Married,White
+1080,Alessandro Rossi,Milan,Italy,100,45,Female,Married,White
+1081,Alessandro Rossi,Milan,Italy,100,40,Male,Single,White
+1082,Alessandro Rossi,Milan,Italy,100,50,Male,Single,White
+1083,Alessandro Rossi,Milan,Italy,100,38,Male,Married,White
+1084,Alessandro Rossi,Milan,Italy,100,30,Male,Married,White
+1085,Alessandro Rossi,Milan,Italy,100,29,Male,Married,White
+1086,Alessandro Rossi,Milan,Italy,100,30,Female,Married,White
+1087,Alessandro Rossi,Milan,Italy,100,35,Male,Single,White
+1088,Alessandro Rossi,Milan,Italy,100,35,Male,Single,White
+1089,Alessandro Rossi,Milan,Italy,100,42,Female,Married,White
+1090,Alessandro Rossi,Milan,Italy,100,43,Male,Married,White
+1091,Alessandro Rossi,Milan,Italy,100,39,Male,Single,White
+1092,Alessandro Rossi,Milan,Italy,100,45,Male,Married,White
+1093,Mary Wambui,Nairobi,Kenya,80100,29,Female,Single,Black
+1094,Peter Mwangi,Nairobi,Kenya,100,45,Male,Married,Black
+1095,Peter Mwangi,Nairobi,Kenya,100,25,Male,Married,Black
+1096,Peter Mwangi,Nairobi,Kenya,100,35,Female,Married,Black
+1097,Peter Mwangi,Nairobi,Kenya,100,31,Female,Married,Black
+1098,Peter Mwangi,Nairobi,Kenya,100,46,Female,Married,Black
+1099,Peter Mwangi,Nairobi,Kenya,100,40,Male,Married,Black
+1100,Peter Mwangi,Nairobi,Kenya,100,40,Male,Married,Black
+1101,Jane Iipinge,Windhoek,Namibia,12009,55,Female,Single,Black
+1102,Joseph Mutorwa,Windhoek,Namibia,12010,50,Male,Married,Black
+1103,Isaac Van Wyk,Windhoek,Namibia,12011,20,Male,Married,White
+1104,Isaac Van Wyk,Windhoek,Namibia,12011,28,Male,Married,White
+1105,Isaac Van Wyk,Windhoek,Namibia,12011,33,Male,Married,White
+1106,Isaac Van Wyk,Windhoek,Namibia,12011,50,Male,Married,White
+1107,Isaac Van Wyk,Windhoek,Namibia,12011,35,Male,Married,White
+1108,Isaac Van Wyk,Windhoek,Namibia,12011,35,Male,Married,White
+1109,Chinwe Nwosu,Lagos,Nigeria,900001,34,Female,Single,Black
+1110,John Okeke,Lagos,Nigeria,100001,34,Male,Married,Black
+1111,John Okeke,Lagos,Nigeria,100001,25,Male,Married,Black
+1112,John Okeke,Lagos,Nigeria,100001,55,Male,Married,Black
+1113,John Okeke,Lagos,Nigeria,100001,32,Male,Married,Black
+1114,John Okeke,Lagos,Nigeria,100001,46,Male,Married,Black
+1115,John Okeke,Lagos,Nigeria,100001,31,Male,Married,Black
+1116,John Okeke,Lagos,Nigeria,100001,30,Male,Married,Black
+1117,John Okeke,Lagos,Nigeria,100001,45,Male,Married,Black
+1118,John Okeke,Lagos,Nigeria,100001,45,Male,Married,Black
+1119,John Okeke,Lagos,Nigeria,100001,54,Male,Married,Black
+1120,John Okeke,Lagos,Nigeria,100001,22,Male,Married,Black
+1121,John Okeke,Lagos,Nigeria,100001,40,Male,Married,Black
+1122,John Okeke,Lagos,Nigeria,100001,32,Male,Married,Black
+1123,John Okeke,Lagos,Nigeria,100001,39,Male,Married,Black
+1124,John Okeke,Lagos,Nigeria,100001,22,Male,Married,Black
+1125,John Okeke,Lagos,Nigeria,100001,46,Male,Married,Black
+1126,John Okeke,Lagos,Nigeria,100001,55,Male,Married,Black
+1127,John Okeke,Lagos,Nigeria,100001,51,Male,Married,Black
+1128,John Okeke,Lagos,Nigeria,100001,24,Male,Married,Black
+1129,John Okeke,Lagos,Nigeria,100001,32,Male,Married,Black
+1130,John Okeke,Lagos,Nigeria,100001,30,Male,Married,Black
+1131,John Okeke,Lagos,Nigeria,100001,20,Male,Married,Black
+1132,John Okeke,Lagos,Nigeria,100001,17,Male,Married,Black
+1133,John Okeke,Lagos,Nigeria,100001,55,Male,Married,Black
+1134,John Okeke,Lagos,Nigeria,100001,42,Male,Married,Black
+1135,Adam Nowak,Warsaw,Poland,00-001,25,Male,Married,White
+1136,Adam Nowak,Warsaw,Poland,00-002,50,Male,Married,White
+1137,Adam Nowak,Warsaw,Poland,00-003,33,Male,Married,White
+1138,Adam Nowak,Warsaw,Poland,00-004,41,Male,Married,White
+1139,Adam Nowak,Warsaw,Poland,00-005,30,Male,Married,White
+1140,Adam Nowak,Warsaw,Poland,00-006,24,Male,Married,White
+1141,Adam Nowak,Warsaw,Poland,00-007,27,Male,Married,White
+1142,Pedro Silva,Lisbon,Portugal,1100,25,Male,Married,White
+1143,Maria Oliveira,Porto,Portugal,4000,45,Female,Single,White
+1144,Maria Oliveira,Porto,Portugal,4001,30,Female,Single,White
+1145,Maria Oliveira,Porto,Portugal,4002,35,Female,Single,White
+1146,Maria Oliveira,Porto,Portugal,4003,35,Female,Single,White
+1147,Maria Oliveira,Porto,Portugal,4004,20,Female,Single,White
+1148,Maria Oliveira,Porto,Portugal,4005,45,Female,Single,White
+1149,Maria Oliveira,Porto,Portugal,4006,40,Female,Single,White
+1150,Maria Oliveira,Porto,Portugal,4007,50,Female,Single,White
+1151,Maria Oliveira,Porto,Portugal,4008,38,Female,Single,White
+1152,Maria Oliveira,Porto,Portugal,4009,30,Female,Single,White
+1153,Maria Oliveira,Porto,Portugal,4010,29,Female,Single,White
+1154,Maria Oliveira,Porto,Portugal,4011,30,Female,Single,White
+1155,Maria Oliveira,Porto,Portugal,4012,35,Female,Single,White
+1156,Maria Oliveira,Porto,Portugal,4013,35,Female,Single,White
+1157,Maria Oliveira,Porto,Portugal,4014,42,Female,Single,White
+1158,Naledi Molefe,Cape Town,South Africa,2,43,Female,Single,Black
+1159,Thabo Dlamini,Johannesburg,South Africa,2000,34,Male,Married,Black
+1160,Thabo Dlamini,Johannesburg,South Africa,2000,25,Male,Married,Black
+1161,Thabo Dlamini,Johannesburg,South Africa,2000,55,Male,Married,Black
+1162,Thabo Dlamini,Johannesburg,South Africa,2000,32,Male,Married,Black
+1163,Thabo Dlamini,Johannesburg,South Africa,2000,46,Male,Married,Black
+1164,Thabo Dlamini,Johannesburg,South Africa,2000,31,Male,Married,Black
+1165,Thabo Dlamini,Johannesburg,South Africa,2000,30,Male,Married,Black
+1166,Thabo Dlamini,Johannesburg,South Africa,2000,45,Male,Married,Black
+1167,Thabo Dlamini,Johannesburg,South Africa,2000,45,Male,Married,Black
+1168,Thabo Dlamini,Johannesburg,South Africa,2000,54,Male,Married,Black
+1169,Thabo Dlamini,Johannesburg,South Africa,2000,22,Male,Married,Black
+1170,Thabo Dlamini,Johannesburg,South Africa,2000,40,Male,Married,Black
+1171,Thabo Dlamini,Johannesburg,South Africa,2000,32,Male,Married,Black
+1172,Thabo Dlamini,Johannesburg,South Africa,2000,39,Male,Married,Black
+1173,Thabo Dlamini,Johannesburg,South Africa,2000,22,Male,Married,Black
+1174,Thabo Dlamini,Johannesburg,South Africa,2000,46,Male,Married,Black
+1175,Thabo Dlamini,Johannesburg,South Africa,2000,55,Male,Married,Black
+1176,Thabo Dlamini,Johannesburg,South Africa,2000,51,Male,Married,Black
+1177,Thabo Dlamini,Johannesburg,South Africa,2000,24,Male,Married,Black
+1178,Thabo Dlamini,Johannesburg,South Africa,2000,32,Male,Married,Black
+1179,Thabo Dlamini,Johannesburg,South Africa,2000,30,Male,Married,Black
+1180,Thabo Dlamini,Johannesburg,South Africa,2000,20,Male,Married,Black
+1181,Thabo Dlamini,Johannesburg,South Africa,2000,17,Male,Married,Black
+1182,Thabo Dlamini,Johannesburg,South Africa,2000,55,Male,Married,Black
+1183,Thabo Dlamini,Johannesburg,South Africa,2000,42,Male,Married,Black
+1184,Thabo Dlamini,Johannesburg,South Africa,2000,25,Male,Married,Black
+1185,Thabo Dlamini,Johannesburg,South Africa,2000,50,Male,Married,Black
+1186,Laura Fernandez,Barcelona,Spain,8001,33,Female,Single,Hispanic
+1187,Pablo García,Madrid,Spain,28001,41,Male,Married,Hispanic
+1188,Pablo García,Madrid,Spain,28001,30,Male,Married,Hispanic
+1189,Pablo García,Madrid,Spain,28001,24,Male,Married,Hispanic
+1190,Pablo García,Madrid,Spain,28001,27,Male,Married,Hispanic
+1191,Pablo García,Madrid,Spain,28001,25,Male,Married,Hispanic
+1192,Pablo García,Madrid,Spain,28001,45,Male,Married,Hispanic
+1193,Pablo García,Madrid,Spain,28001,30,Male,Married,Hispanic
+1194,Pablo García,Madrid,Spain,28001,35,Male,Married,Hispanic
+1195,Pablo García,Madrid,Spain,28001,35,Male,Married,Hispanic
+1196,Pablo García,Madrid,Spain,28001,20,Male,Married,Hispanic
+1197,Pablo García,Madrid,Spain,28001,45,Male,Married,Hispanic
+1198,Pablo García,Madrid,Spain,28001,40,Male,Married,Hispanic
+1199,Pablo García,Madrid,Spain,28001,50,Male,Married,Hispanic
+1200,Pablo García,Madrid,Spain,28001,38,Male,Married,Hispanic
+1201,Pablo García,Madrid,Spain,28001,30,Male,Married,Hispanic
+1202,Anna Karlsson,Gothenburg,Sweden,41100,29,Female,Single,White
+1203,Johan Svensson,Stockholm,Sweden,11120,30,Male,Married,White
+1204,Johan Svensson,Stockholm,Sweden,11120,35,Male,Married,White
+1205,Johan Svensson,Stockholm,Sweden,11120,35,Male,Married,White
+1206,Johan Svensson,Stockholm,Sweden,11120,42,Male,Married,White
+1207,Johan Svensson,Stockholm,Sweden,11120,43,Male,Married,White
+1208,Johan Svensson,Stockholm,Sweden,11120,39,Male,Married,White
+1209,Johan Svensson,Stockholm,Sweden,11120,45,Male,Married,White
+1210,Johan Svensson,Stockholm,Sweden,11120,29,Male,Married,White
+1211,Johan Svensson,Stockholm,Sweden,11120,45,Male,Married,White
+1212,Johan Svensson,Stockholm,Sweden,11120,25,Male,Married,White
+1213,Johan Svensson,Stockholm,Sweden,11120,35,Male,Married,White
+1214,Johan Svensson,Stockholm,Sweden,11120,31,Male,Married,White
+1215,Johan Svensson,Stockholm,Sweden,11120,46,Male,Married,White
+1216,Johan Svensson,Stockholm,Sweden,11120,40,Male,Married,White
+1217,Johan Svensson,Stockholm,Sweden,11120,40,Male,Married,White
+1218,Johan Svensson,Stockholm,Sweden,11120,55,Male,Married,White
+1219,Johan Svensson,Stockholm,Sweden,11120,50,Male,Married,White
+1220,Johan Svensson,Stockholm,Sweden,11120,20,Male,Married,White
+1221,Johan Svensson,Stockholm,Sweden,11120,28,Male,Married,White
+1222,Johan Svensson,Stockholm,Sweden,11120,33,Male,Married,White
+1223,Johan Svensson,Stockholm,Sweden,11120,50,Male,Married,White
+1224,Johan Svensson,Stockholm,Sweden,11120,35,Male,Married,White
+1225,Jack Smith,London,UK,EC1A,35,Male,Married,White
+1226,Olivia Johnson,London,UK,M1,34,Female,Single,Black
+1227,Olivia Johnson,London,UK,M2,34,Female,Single,Black
+1228,Olivia Johnson,London,UK,M3,25,Female,Single,Black
+1229,Olivia Johnson,London,UK,M4,55,Female,Single,Black
+1230,Olivia Johnson,London,UK,M5,32,Female,Single,Black
+1231,Olivia Johnson,London,UK,M6,46,Female,Single,Black
+1232,Olivia Johnson,London,UK,M7,31,Female,Single,Black
+1233,Olivia Johnson,London,UK,M8,30,Female,Single,Black
+1234,Olivia Johnson,London,UK,M9,45,Female,Single,Black
+1235,Olivia Johnson,London,UK,M10,45,Female,Single,Black
+1236,Olivia Johnson,London,UK,M11,54,Female,Single,Black
+1237,Olivia Johnson,London,UK,M12,22,Female,Single,Black
+1238,Olivia Johnson,London,UK,M13,40,Female,Single,Black
+1239,Olivia Johnson,London,UK,M14,32,Female,Single,Black
+1240,Olivia Johnson,London,UK,M15,39,Female,Single,Black
+1241,Olivia Johnson,London,UK,M16,22,Female,Single,Black
+1242,Olivia Johnson,London,UK,M17,46,Female,Single,Black
+1243,Olivia Johnson,London,UK,M18,55,Female,Single,Black
+1244,Olivia Johnson,London,UK,M19,51,Female,Single,Black
+1245,Olivia Johnson,London,UK,M20,24,Female,Single,Black
+1246,Olivia Johnson,London,UK,M21,32,Female,Single,Black
+1247,Olivia Johnson,London,UK,M22,30,Female,Single,Black
+1248,Olivia Johnson,London,UK,M23,20,Female,Single,Black
+1249,Olivia Johnson,London,UK,M24,17,Female,Single,Black
+1250,Olivia Johnson,London,UK,M25,55,Female,Single,Black
+1251,Olivia Johnson,London,UK,M26,42,Female,Single,Black
+1252,Olivia Johnson,London,UK,M27,25,Female,Single,Black
+1253,Olivia Johnson,London,UK,M28,50,Female,Single,Black
+1254,Olivia Johnson,London,UK,M29,33,Female,Single,Black
+1255,Olivia Johnson,London,UK,M30,41,Female,Single,Black
+1256,Olivia Johnson,London,UK,M31,30,Female,Single,Black
+1257,Olivia Johnson,London,UK,M32,24,Female,Single,Black
+1258,Olivia Johnson,London,UK,M33,27,Female,Single,Black
+1259,Olivia Johnson,London,UK,M34,25,Female,Single,Black
+1260,Olivia Johnson,London,UK,M35,45,Female,Single,Black
+1261,Olivia Johnson,London,UK,M36,30,Female,Single,Black
+1262,Olivia Johnson,London,UK,M37,35,Female,Single,Black
+1263,Olivia Johnson,London,UK,M38,35,Female,Single,Black
+1264,Olivia Johnson,London,UK,M39,20,Female,Single,Black
+1265,Olivia Johnson,London,UK,M40,45,Female,Single,Black
+1266,Olivia Johnson,London,UK,M41,40,Female,Single,Black
+1267,Olivia Johnson,London,UK,M42,50,Female,Single,Black
+1268,Michael Johnson,Chicago,USA,60601,38,Male,Married,Black
+1269,Mia Clark,Columbus,USA,43004,30,Female,Single,Hispanic
+1270,James Taylor,Dallas,USA,75201,29,Male,Married,White
+1271,Sarah Wilson,Houston,USA,77001,30,Female,Single,White
+1272,Ethan Harris,Jacksonville,USA,32201,35,Male,Married,White
+1273,Emily Davis,Los Angeles,USA,90001,35,Female,Single,Hispanic
+1274,John Miller,New York,USA,10001,42,Male,Married,White
+1275,Ian Jones,New York,USA,95101,43,Male,Single,White
+1276,William Thomas,Philadelphia,USA,19101,38,Male,Single,Black
+1277,David Brown,Phoenix,USA,85001,47,Male,Married,White
+1278,Isabella Lee,San Antonio,USA,78201,27,Female,Single,Asian
+1279,Sophia Martinez,San Diego,USA,92101,26,Female,Single,Hispanic
+1280,Olivia Anderson,San Jose,USA,95101,34,Female,Married,Asian
+1281,Olivia Anderson,San Jose,USA,95101,25,Female,Married,Asian
+1282,Olivia Anderson,San Jose,USA,95101,55,Female,Married,Asian
+1283,Olivia Anderson,San Jose,USA,95101,32,Female,Married,Asian
+1284,Olivia Anderson,San Jose,USA,95101,46,Female,Married,Asian
+1285,Olivia Anderson,San Jose,USA,95101,31,Female,Married,Asian
+1286,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1287,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1288,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1289,Olivia Anderson,San Jose,USA,95101,54,Female,Married,Asian
+1290,Olivia Anderson,San Jose,USA,95101,22,Female,Married,Asian
+1291,Olivia Anderson,San Jose,USA,95101,40,Female,Married,Asian
+1292,Olivia Anderson,San Jose,USA,95101,32,Female,Married,Asian
+1293,Olivia Anderson,San Jose,USA,95101,39,Female,Married,Asian
+1294,Olivia Anderson,San Jose,USA,95101,22,Female,Married,Asian
+1295,Olivia Anderson,San Jose,USA,95101,46,Female,Married,Asian
+1296,Olivia Anderson,San Jose,USA,95101,55,Female,Married,Asian
+1297,Olivia Anderson,San Jose,USA,95101,51,Female,Married,Asian
+1298,Olivia Anderson,San Jose,USA,95101,24,Female,Married,Asian
+1299,Olivia Anderson,San Jose,USA,95101,32,Female,Married,Asian
+1300,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1301,Olivia Anderson,San Jose,USA,95101,20,Female,Married,Asian
+1302,Olivia Anderson,San Jose,USA,95101,17,Female,Married,Asian
+1303,Olivia Anderson,San Jose,USA,95101,55,Female,Married,Asian
+1304,Olivia Anderson,San Jose,USA,95101,42,Female,Married,Asian
+1305,Olivia Anderson,San Jose,USA,95101,25,Female,Married,Asian
+1306,Olivia Anderson,San Jose,USA,95101,50,Female,Married,Asian
+1307,Olivia Anderson,San Jose,USA,95101,33,Female,Married,Asian
+1308,Olivia Anderson,San Jose,USA,95101,41,Female,Married,Asian
+1309,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1310,Olivia Anderson,San Jose,USA,95101,24,Female,Married,Asian
+1311,Olivia Anderson,San Jose,USA,95101,27,Female,Married,Asian
+1312,Olivia Anderson,San Jose,USA,95101,25,Female,Married,Asian
+1313,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1314,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1315,Olivia Anderson,San Jose,USA,95101,35,Female,Married,Asian
+1316,Olivia Anderson,San Jose,USA,95101,35,Female,Married,Asian
+1317,Olivia Anderson,San Jose,USA,95101,20,Female,Married,Asian
+1318,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1319,Olivia Anderson,San Jose,USA,95101,40,Female,Married,Asian
+1320,Olivia Anderson,San Jose,USA,95101,50,Female,Married,Asian
+1321,Olivia Anderson,San Jose,USA,95101,38,Female,Married,Asian
+1322,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1323,Olivia Anderson,San Jose,USA,95101,29,Female,Married,Asian
+1324,Olivia Anderson,San Jose,USA,95101,30,Female,Married,Asian
+1325,Olivia Anderson,San Jose,USA,95101,35,Female,Married,Asian
+1326,Olivia Anderson,San Jose,USA,95101,35,Female,Married,Asian
+1327,Olivia Anderson,San Jose,USA,95101,42,Female,Married,Asian
+1328,Olivia Anderson,San Jose,USA,95101,43,Female,Married,Asian
+1329,Olivia Anderson,San Jose,USA,95101,39,Female,Married,Asian
+1330,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1331,Olivia Anderson,San Jose,USA,95101,29,Female,Married,Asian
+1332,Olivia Anderson,San Jose,USA,95101,45,Female,Married,Asian
+1333,Chipo Phiri,Kitwe,Zambia,50100,25,Female,Single,Black
+1334,Joseph Banda,Lusaka,Zambia,10101,35,Male,Married,Black
+1335,Joseph Banda,Lusaka,Zambia,10101,31,Male,Married,Black
+1336,Joseph Banda,Lusaka,Zambia,10101,46,Male,Married,Black
+1337,Joseph Banda,Lusaka,Zambia,10101,40,Male,Married,Black
+1338,Joseph Banda,Lusaka,Zambia,10101,40,Male,Married,Black
+1339,Joseph Banda,Lusaka,Zambia,10101,55,Male,Married,Black
+1340,Joseph Banda,Lusaka,Zambia,10101,50,Male,Married,Black
+1341,Joseph Banda,Lusaka,Zambia,10101,20,Male,Married,Black

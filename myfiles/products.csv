@@ -1,0 +1,111 @@
+product_code,product_name,product_cat,product_price,product_cost
+CLO001,Men's T-Shirt,Clothing,25,18.25
+CLO002,Women's Dress,Clothing,60,43.8
+CLO003,Jeans,Clothing,45,32.85
+CLO004,Hoodie,Clothing,40,29.2
+CLO005,Sneakers,Clothing,80,58.4
+CLO006,Jacket,Clothing,100,73
+CLO007,Cap,Clothing,20,14.6
+CLO008,Scarf,Clothing,15,10.95
+CLO009,Socks Pack (5),Clothing,12,8.76
+CLO010,Belt,Clothing,18,13.14
+CLO011,Polo Shirt,Clothing,35,25.55
+CLO012,Summer Dress,Clothing,55,40.15
+CLO013,Chinos,Clothing,50,36.5
+CLO014,Sweatshirt,Clothing,45,32.85
+CLO015,Running Shoes,Clothing,90,65.7
+CLO016,Winter Coat,Clothing,150,109.5
+CLO017,Baseball Cap,Clothing,22,16.06
+CLO018,Wool Scarf,Clothing,25,18.25
+CLO019,Ankle Socks (3-pack),Clothing,10,7.3
+CLO020,Leather Belt,Clothing,28,20.44
+CLO021,Henley Shirt,Clothing,38,27.74
+CLO022,Maxi Dress,Clothing,65,47.45
+CLO023,Slim Fit Pants,Clothing,55,40.15
+CLO024,Fleece Jacket,Clothing,60,43.8
+CLO025,Trail Shoes,Clothing,85,62.05
+CLO026,Trench Coat,Clothing,160,116.8
+CLO027,Sun Hat,Clothing,18,13.14
+CLO028,Infinity Scarf,Clothing,20,14.6
+CLO029,Dress Socks (5-pack),Clothing,14,10.22
+CLO030,Casual Belt,Clothing,22,16.06
+CLO031,Graphic Tee,Clothing,28,20.44
+CLO032,Evening Gown,Clothing,120,87.6
+CLO033,Cargo Pants,Clothing,50,36.5
+CLO034,Zip-up Hoodie,Clothing,45,32.85
+CLO035,Sports Sneakers,Clothing,95,69.35
+ELE001,"55"" LED TV",Electronics,700,511
+ELE002,"Laptop 15""",Electronics,1200,876
+ELE003,Smartphone,Electronics,800,584
+ELE004,Bluetooth Headphones,Electronics,150,109.5
+ELE005,Gaming Console,Electronics,500,365
+ELE006,Digital Camera,Electronics,400,292
+ELE007,Smart Watch,Electronics,250,182.5
+ELE008,Wireless Mouse,Electronics,50,36.5
+ELE009,External Hard Drive,Electronics,120,87.6
+ELE010,Home Theater System,Electronics,900,657
+ELE011,"65"" OLED TV",Electronics,1500,1095
+ELE012,"Laptop 13""",Electronics,1000,730
+ELE013,Smartphone Pro,Electronics,1000,730
+ELE014,Noise Cancelling Headphones,Electronics,200,146
+ELE015,VR Headset,Electronics,400,292
+ELE016,DSLR Camera,Electronics,900,657
+ELE017,Fitness Tracker,Electronics,100,73
+ELE018,Keyboard & Mouse Combo,Electronics,80,58.4
+ELE019,Portable SSD,Electronics,150,109.5
+ELE020,Soundbar,Electronics,300,219
+ELE021,"Tablet 10""",Electronics,350,255.5
+ELE022,4K Projector,Electronics,600,438
+ELE023,Smart Home Hub,Electronics,250,182.5
+ELE024,E-Reader,Electronics,120,87.6
+ELE025,Action Camera,Electronics,350,255.5
+ELE026,Streaming Device,Electronics,100,73
+ELE027,Wireless Earbuds,Electronics,130,94.9
+ELE028,Smart Thermostat,Electronics,200,146
+ELE029,Gaming Laptop,Electronics,1500,1095
+ELE030,"PC Monitor 27""",Electronics,300,219
+ELE031,Desktop PC,Electronics,1200,876
+ELE032,Portable Speaker,Electronics,180,131.4
+ELE033,Security Camera,Electronics,250,182.5
+ELE034,Drone with Camera,Electronics,800,584
+ELE035,Wireless Charger,Electronics,50,36.5
+FUR001,Oak Wood Dining Table,Furniture,450,328.5
+FUR002,Leather Sofa,Furniture,1200,876
+FUR003,King Size Bed Frame,Furniture,800,584
+FUR004,Office Chair,Furniture,150,109.5
+FUR005,Coffee Table,Furniture,200,146
+FUR006,Bookshelf,Furniture,180,131.4
+FUR007,Wardrobe,Furniture,600,438
+FUR008,Nightstand,Furniture,90,65.7
+FUR009,Recliner Chair,Furniture,350,255.5
+FUR010,TV Stand,Furniture,250,182.5
+FUR011,Pine Wood Dining Table,Furniture,400,292
+FUR012,Fabric Sofa,Furniture,900,657
+FUR013,Twin Bed Frame,Furniture,500,365
+FUR014,Gaming Chair,Furniture,200,146
+FUR015,Glass Coffee Table,Furniture,220,160.6
+FUR016,5-Shelf Bookcase,Furniture,190,138.7
+FUR017,Sliding Door Wardrobe,Furniture,650,474.5
+FUR018,Modern Nightstand,Furniture,100,73
+FUR019,Fabric Recliner,Furniture,370,270.1
+FUR020,Corner TV Unit,Furniture,300,219
+FUR021,Rustic Dining Table,Furniture,550,401.5
+FUR022,Sectional Sofa,Furniture,1300,949
+FUR023,Bunk Bed,Furniture,600,438
+FUR024,Ergonomic Office Chair,Furniture,180,131.4
+FUR025,Round Coffee Table,Furniture,210,153.3
+FUR026,Ladder Bookcase,Furniture,170,124.1
+FUR027,3-Door Wardrobe,Furniture,700,511
+FUR028,Nightstand with Drawer,Furniture,120,87.6
+FUR029,Swivel Recliner,Furniture,400,292
+FUR030,Entertainment Center,Furniture,450,328.5
+FUR031,Walnut Dining Table,Furniture,480,350.4
+FUR032,Loveseat Sofa,Furniture,850,620.5
+FUR033,Queen Bed Frame,Furniture,750,547.5
+FUR034,Mesh Office Chair,Furniture,140,102.2
+FUR035,Coffee Table Set,Furniture,260,189.8
+FUR036,Adjustable Bookshelf,Furniture,200,146
+FUR037,Sliding Wardrobe Mirror,Furniture,680,496.4
+FUR038,Classic Nightstand,Furniture,110,80.3
+FUR039,Reclining Sofa Bed,Furniture,900,657
+FUR040,Media Storage Unit,Furniture,380,277.4

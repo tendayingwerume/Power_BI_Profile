@@ -1,0 +1,32 @@
+store_id,store_city,store_country,store_zip
+ST001,Accra,Ghana,9000
+ST002,Barcelona,Spain,8001
+ST003,Berlin,Germany,10115
+ST004,Cape Town,South Africa,8000
+ST005,Chicago,USA,60601
+ST006,Columbus,USA,43004
+ST007,Dallas,USA,75201
+ST008,Gothenburg,Sweden,41100
+ST009,Houston,USA,77001
+ST010,Jacksonville,USA,32201
+ST011,Johannesburg,South Africa,2000
+ST012,Kitwe,Zambia,50100
+ST013,Lagos,Nigeria,100001
+ST014,Lisbon,Portugal,1100
+ST015,London,UK,EC1A
+ST016,Los Angeles,USA,90001
+ST017,Lusaka,Zambia,10101
+ST018,Madrid,Spain,28001
+ST019,Milan,Italy,20101
+ST020,Nairobi,Kenya,100
+ST021,New York,USA,10001
+ST022,Paris,France,75001
+ST023,Philadelphia,USA,19101
+ST024,Phoenix,USA,85001
+ST025,Porto,Portugal,4000
+ST026,San Antonio,USA,78201
+ST027,San Diego,USA,92101
+ST028,San Jose,USA,95101
+ST029,Stockholm,Sweden,11120
+ST030,Warsaw,Poland,00-001
+ST031,Windhoek,Namibia,9000

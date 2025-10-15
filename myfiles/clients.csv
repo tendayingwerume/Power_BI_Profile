@@ -1,0 +1,300 @@
+ClientNum,Last Name,First Name,DOB,Gender,City,Occupation,GrossSalary,NetSalary,CreditLimit,ClientStatus
+3,Client01,Customer01,1970-09-27,Male,Wndhoek,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+4,Client02,Customer02,1970-04-27,Male,Wndhoek,Driver,"8,500.00","6,205.00","N$ 1,241.00",Current
+5,Client03,Customer03,1980-05-30,Male,Okahandja,Prison Officer,"16,800.00","12,264.00","N$ 2,452.80",Current
+9,Client04,Customer04,1963-03-01,Male,Windhoek,Cleaner,"3,800.00","2,774.00",N$ 554.80,Current
+15,Client05,Customer05,1970-08-10,Male,Windhoek,Teacher,"17,500.00","12,775.00","N$ 2,555.00",Current
+17,Client06,Customer06,1966-11-05,Female,Windhoek,Cleaner,"3,800.00","2,774.00",N$ 554.80,Current
+25,Client07,Customer07,1965-03-17,Male,Okahandja,Soldier,"20,500.00","14,965.00","N$ 2,993.00",Current
+31,Client08,Customer08,1961-05-07,Male,Windhoek,Soldier,"20,500.00","14,965.00","N$ 2,993.00",Current
+32,Client09,Customer09,1964-06-26,Female,Windhoek,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+35,Client10,Customer10,1970-10-20,Female,Windhoek,Social Worker,"22,001.00","16,060.73","N$ 3,212.15",Current
+37,Client11,Customer11,1962-02-12,Female,Windhoek,Cleaner,"3,500.00","2,555.00",N$ 511.00,Current
+41,Client12,Customer12,1970-02-09,Female,Windhoek,Administration Officer,"11,000.00","8,030.00","N$ 1,606.00",Current
+46,Client13,Customer13,1970-03-13,Female,Oshakati,Social Worker,"22,002.00","16,061.46","N$ 3,212.29",Current
+49,Client14,Customer14,1959-06-09,Male,Oshakati,Social Worker,"22,003.00","16,062.19","N$ 3,212.44",Current
+57,Client15,Customer15,1969-01-01,Female,Oshakati,Control Officer,"15,800.00","11,534.00","N$ 2,306.80",Current
+66,Client16,Customer16,1986-06-25,Male,Oshakati,Driver,"7,000.00","5,110.00","N$ 1,022.00",Current
+76,Client17,Customer17,1971-01-01,Male,Oshakati,Control Officer,"20,000.00","14,600.00","N$ 2,920.00",Current
+77,Client18,Customer18,1983-11-07,Female,Oshakati,Teacher,"17,500.00","12,775.00","N$ 2,555.00",Current
+78,Client19,Customer19,1964-02-02,Male,Oshakati,Police Officer,"14,200.00","10,366.00","N$ 2,073.20",Current
+85,Client20,Customer20,1981-10-02,Male,Oshakati,Police Officer,"12,500.00","9,125.00","N$ 1,825.00",Current
+93,Client21,Customer21,1986-12-11,Female,Oshakati,Police Officer,"9,500.00","6,935.00","N$ 1,387.00",Current
+94,Client22,Customer22,1965-08-25,Male,Oshakati,HR Manager,"23,722.58","17,317.48","N$ 3,463.50",Current
+107,Client23,Customer23,1969-12-26,Female,Oshakati,Police Officer,"11,200.00","8,176.00","N$ 1,635.20",Current
+110,Client24,Customer24,1981-07-31,Male,Oshakati,Police Officer,"11,500.00","8,395.00","N$ 1,679.00",Current
+114,Client25,Customer25,1970-08-22,Female,Oshakati,Police Officer,"11,500.00","8,395.00","N$ 1,679.00",Current
+117,Client26,Customer26,1981-04-03,Male,Oshakati,Police Officer,"12,500.00","9,125.00","N$ 1,825.00",Current
+121,Client27,Customer27,1957-03-03,Male,Oshakati,Social Worker,"22,004.00","16,062.92","N$ 3,212.58",Current
+122,Client28,Customer28,1964-05-10,Male,Oshakati,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+124,Client29,Customer29,1971-06-10,Female,Oshakati,Cleaner,"4,000.00","2,920.00",N$ 584.00,Current
+138,Client30,Customer30,1968-07-06,Female,Oshakati,Accountant,"15,600.00","11,388.00","N$ 2,277.60",Current
+147,Client31,Customer31,1962-10-30,Male,Oshakati,Customer Office,"22,500.00","16,425.00","N$ 3,285.00",Current
+154,Client32,Customer32,1976-06-11,Female,Wavis Bay,Clerk,"5,600.00","4,088.00",N$ 817.60,Current
+157,Client33,Customer33,1987-03-19,Male,Oshakati,Customer Office,"20,000.00","14,600.00","N$ 2,920.00",Current
+159,Client34,Customer34,1965-08-08,Female,Okahandja,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+164,Client35,Customer35,1972-12-24,Male,Oshakati,Tax Officer,"21,500.00","15,695.00","N$ 3,139.00",Current
+170,Client36,Customer36,1982-04-30,Female,Oshakati,Tax Officer,"18,600.00","13,578.00","N$ 2,715.60",Current
+173,Client37,Customer37,1967-06-25,Male,Oshakati,Social Worker,"22,005.00","16,063.65","N$ 3,212.73",Current
+184,Client38,Customer38,1970-04-27,Male,Oshakati,Supervisor,"9,000.00","6,570.00","N$ 1,314.00",Current
+209,Client39,Customer39,1963-08-28,Female,Oshakati,Cleaner,"2,900.00","2,117.00",N$ 423.40,Current
+217,Client40,Customer40,1970-02-10,Female,Oshakati,Cleaner,"3,200.00","2,336.00",N$ 467.20,Current
+229,Client41,Customer41,1967-01-08,Female,Oshakati,Police Officer,"15,600.00","11,388.00","N$ 2,277.60",Current
+245,Client42,Customer42,1964-05-09,Female,Oshakati,Social Worker,"22,006.00","16,064.38","N$ 3,212.88",Current
+257,Client43,Customer43,1986-04-05,Male,Oshakati,Driver,"5,900.00","4,307.00",N$ 861.40,Current
+259,Client44,Customer44,1976-06-24,Male,Oshakati,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+271,Client45,Customer45,1973-10-22,Female,Oshakati,Secretary,"15,000.00","10,950.00","N$ 2,190.00",Current
+282,Client46,Customer46,1976-06-19,Female,Oshakati,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+287,Client47,Customer47,1969-02-28,Female,Oshakati,HR Manager,"4,000.00","2,920.00",N$ 584.00,Current
+289,Client48,Customer48,1982-02-26,Male,Oshakati,Police Officer,"14,200.00","10,366.00","N$ 2,073.20",Current
+304,Client49,Customer49,1980-04-13,Female,Oshakati,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+316,Client50,Customer50,1971-12-26,Male,Oshakati,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+318,Client51,Customer51,1970-04-10,Male,Oshakati,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+323,Client52,Customer52,1964-01-01,Male,Oshakati,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+327,Client53,Customer53,1972-05-27,Male,Oshakati,Teacher,"18,000.00","13,140.00","N$ 2,628.00",Current
+335,Client54,Customer54,1965-05-21,Male,Okahandja,Soldier,"14,000.00","10,220.00","N$ 2,044.00",Current
+338,Client55,Customer55,1966-08-04,Male,Oshakati,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+342,Client56,Customer56,1965-08-15,Male,Oshakati,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+435,Client57,Customer57,1970-03-06,Male,Oshakati,HR Manager,"25,500.00","18,615.00","N$ 3,723.00",Current
+449,Client58,Customer58,1974-09-29,Male,Oshakati,Prison Officer,"18,300.00","13,359.00","N$ 2,671.80",Current
+452,Client59,Customer59,1978-05-21,Female,Oshakati,Prison Officer,"15,000.00","10,950.00","N$ 2,190.00",Current
+453,Client60,Customer60,1958-11-02,Male,Oshakati,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+462,Client61,Customer61,1962-04-12,Male,Oshakati,CustomerS Office,"20,000.00","14,600.00","N$ 2,920.00",Current
+464,Client62,Customer62,1965-05-05,Male,Oshakati,Prison Officer,"16,500.00","12,045.00","N$ 2,409.00",Current
+473,Client63,Customer63,1948-08-30,Male,Oshakati,Supervisor,"9,000.00","6,570.00","N$ 1,314.00",Current
+476,Client64,Customer64,1977-12-31,Female,Oshakati,Prison Officer,"19,000.00","13,870.00","N$ 2,774.00",Current
+477,Client65,Customer65,1982-09-03,Female,Oshakati,Driver,"6,500.00","4,745.00",N$ 949.00,Current
+478,Client66,Customer66,1985-11-06,Female,Oshakati,Driver,"6,500.00","4,745.00",N$ 949.00,Current
+479,Client67,Customer67,1985-03-19,Male,Oshakati,Accountant,"15,600.00","11,388.00","N$ 2,277.60",Current
+483,Client68,Customer68,1975-05-19,Female,Oshakati,Accountant,"15,600.00","11,388.00","N$ 2,277.60",Current
+488,Client69,Customer69,1968-04-10,Male,Swakopmund,Accountant,"19,000.00","13,870.00","N$ 2,774.00",Current
+489,Client70,Customer70,1970-04-27,Male,Swakopmund,Driver,"6,800.00","4,964.00",N$ 992.80,Current
+490,Client71,Customer71,1964-08-20,Female,Swakopmund,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+493,Client72,Customer72,1965-05-05,Female,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+496,Client73,Customer73,1963-08-03,Female,Swakopmund,Nurse,"25,000.00","18,250.00","N$ 3,650.00",Current
+499,Client74,Customer74,1970-07-06,Male,Swakopmund,Nurse,"19,500.00","14,235.00","N$ 2,847.00",Current
+507,Client75,Customer75,1984-02-26,Female,Swakopmund,Nurse,"20,500.00","14,965.00","N$ 2,993.00",Current
+510,Client76,Customer76,1983-07-10,Male,Swakopmund,Nurse,"20,000.00","14,600.00","N$ 2,920.00",Current
+513,Client77,Customer77,1973-10-28,Male,Swakopmund,Supervisor,"14,000.00","10,220.00","N$ 2,044.00",Current
+514,Client78,Customer78,1973-09-29,Male,Swakopmund,Supervisor,"14,000.00","10,220.00","N$ 2,044.00",Current
+516,Client79,Customer79,1982-09-11,Male,Swakopmund,Nurse,"18,500.00","13,505.00","N$ 2,701.00",Current
+521,Client80,Customer80,1960-11-09,Female,Swakopmund,Messenger,"4,500.00","3,285.00",N$ 657.00,Current
+522,Client81,Customer81,1984-04-29,Male,Swakopmund,Messenger,"5,000.00","3,650.00",N$ 730.00,Current
+524,Client82,Customer82,1962-06-03,Female,Swakopmund,Teacher,"26,000.00","18,980.00","N$ 3,796.00",Current
+527,Client83,Customer83,1964-10-16,Male,Swakopmund,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+528,Client84,Customer84,1990-06-10,Female,Swakopmund,Accountant,"17,500.00","12,775.00","N$ 2,555.00",Current
+532,Client85,Customer85,1968-08-10,Female,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+533,Client86,Customer86,1962-01-01,Male,Swakopmund,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+542,Client87,Customer87,1974-06-25,Male,Swakopmund,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+543,Client88,Customer88,1979-12-12,Male,Swakopmund,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+547,Client89,Customer89,1964-08-24,Female,Swakopmund,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+549,Client90,Customer90,1976-01-01,Male,Swakopmund,Clerk,"6,500.00","4,745.00",N$ 949.00,Current
+551,Client91,Customer91,1968-02-11,Male,Swakopmund,General Worker,0.00,0.00,N$ 0.00,Current
+552,Client92,Customer92,1970-02-05,Female,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+560,Client93,Customer93,1984-12-11,Male,Swakopmund,Driver,"7,500.00","5,475.00","N$ 1,095.00",Current
+561,Client94,Customer94,1977-05-18,Female,Swakopmund,Secretary,"6,500.00","4,745.00",N$ 949.00,Current
+562,Client95,Customer95,1970-04-27,Female,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+563,Client96,Customer96,1973-04-22,Female,Swakopmund,Clerk,"6,000.00","4,380.00",N$ 876.00,Current
+564,Client97,Customer97,1965-08-02,Female,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+567,Client98,Customer98,1989-09-30,Male,Swakopmund,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+569,Client99,Customer99,1975-01-06,Male,Rundu,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+571,Client100,Customer100,1978-08-11,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+573,Client101,Customer101,1966-06-06,Female,Rundu,Clerk,"6,300.00","4,599.00",N$ 919.80,Current
+574,Client102,Customer102,1987-06-25,Female,Rundu,Clerk,"6,500.00","4,745.00",N$ 949.00,Current
+575,Client103,Customer103,1963-08-02,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+583,Client104,Customer104,1976-02-12,Female,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+585,Client105,Customer105,1965-09-02,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+586,Client106,Customer106,1976-01-14,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+588,Client107,Customer107,1975-10-22,Female,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+590,Client108,Customer108,1975-10-02,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+593,Client109,Customer109,1987-10-28,Female,Rundu,Clerk,"6,500.00","4,745.00",N$ 949.00,Current
+594,Client110,Customer110,1987-06-25,Female,Rundu,Clerk,"5,800.00","4,234.00",N$ 846.80,Current
+602,Client111,Customer111,1967-02-09,Male,Rundu,Clerk,"5,500.00","4,015.00",N$ 803.00,Current
+609,Client112,Customer112,1977-01-05,Male,Rundu,Social Worker,"25,000.00","18,250.00","N$ 3,650.00",Current
+610,Client113,Customer113,1979-04-04,Male,Rundu,Social Worker,"30,200.00","22,046.00","N$ 4,409.20",Current
+612,Client114,Customer114,1976-09-28,Female,Rundu,Social Worker,"27,800.00","20,294.00","N$ 4,058.80",Current
+614,Client115,Customer115,1973-06-29,Male,Rundu,Supervisor,"15,000.00","10,950.00","N$ 2,190.00",Current
+615,Client116,Customer116,1976-09-26,Female,Rundu,Social Worker,"22,000.00","16,060.00","N$ 3,212.00",Current
+619,Client117,Customer117,1984-04-05,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+622,Client118,Customer118,1958-01-31,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+623,Client119,Customer119,1984-04-29,Female,Rundu,Messenger,"3,500.00","2,555.00",N$ 511.00,Current
+625,Client120,Customer120,1984-02-28,Female,Rundu,Messenger,"4,200.00","3,066.00",N$ 613.20,Current
+627,Client121,Customer121,1984-06-25,Female,Rundu,Messenger,"4,000.00","2,920.00",N$ 584.00,Current
+628,Client122,Customer122,1968-02-06,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+629,Client123,Customer123,1989-07-07,Male,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+630,Client124,Customer124,1963-02-03,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+660,Client125,Customer125,1975-08-12,Female,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+663,Client126,Customer126,1988-06-07,Male,Rundu,Clerk,"5,900.00","4,307.00",N$ 861.40,Current
+664,Client127,Customer127,1987-05-01,Female,Rundu,Clerk,"6,800.00","4,964.00",N$ 992.80,Current
+670,Client128,Customer128,1965-08-01,Male,Rundu,Soldier,"20,500.00","14,965.00","N$ 2,993.00",Current
+671,Client129,Customer129,1967-03-17,Male,Rundu,Messenger,"3,500.00","2,555.00",N$ 511.00,Current
+672,Client130,Customer130,1970-02-05,Male,Rundu,Police Officer,"13,000.00","9,490.00","N$ 1,898.00",Current
+673,Client131,Customer131,1970-12-25,Female,Rundu,Prison Officer,"19,500.00","14,235.00","N$ 2,847.00",Current
+674,Client132,Customer132,1970-05-28,Female,Rundu,Accountant,"15,000.00","10,950.00","N$ 2,190.00",Current
+680,Client133,Customer133,1974-06-20,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+684,Client134,Customer134,1987-07-08,Male,Rundu,General Worker,"12,121.00","8,848.33","N$ 1,769.67",Current
+685,Client135,Customer135,1984-09-02,Female,Rundu,General Worker,0.00,0.00,N$ 0.00,Current
+686,Client136,Customer136,1963-01-03,Male,Rundu,Teacher,"18,000.00","13,140.00","N$ 2,628.00",Current
+690,Client137,Customer137,1980-09-11,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+694,Client138,Customer138,1966-10-24,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+700,Client139,Customer139,1973-08-12,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+703,Client140,Customer140,1975-04-22,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+705,Client141,Customer141,1976-08-11,Female,Rundu,Tax Officer,"23,000.00","16,790.00","N$ 3,358.00",Current
+708,Client142,Customer142,1972-10-19,Female,Rundu,Tax Officer,"22,400.00","16,352.00","N$ 3,270.40",Current
+709,Client143,Customer143,1974-09-27,Male,Rundu,Administration Officer,"12,500.00","9,125.00","N$ 1,825.00",Current
+710,Client144,Customer144,1990-06-07,Male,Rundu,Administration Officer,"10,000.00","7,300.00","N$ 1,460.00",Current
+711,Client145,Customer145,1978-04-14,Male,Rundu,Driver,"7,500.00","5,475.00","N$ 1,095.00",Current
+712,Client146,Customer146,1977-12-12,Female,Rundu,Adinistration Office,"8,900.00","6,497.00","N$ 1,299.40",Current
+713,Client147,Customer147,1967-02-17,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+718,Client148,Customer148,1969-10-29,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+719,Client149,Customer149,1965-02-01,Female,Okahandja,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+721,Client150,Customer150,1964-07-23,Female,Rundu,Messenger,"4,000.00","2,920.00",N$ 584.00,Current
+722,Client151,Customer151,1982-12-10,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+726,Client152,Customer152,1978-06-11,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+727,Client153,Customer153,1978-05-31,Female,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+728,Client154,Customer154,1981-07-10,Female,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+729,Client155,Customer155,1967-03-01,Female,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+741,Client156,Customer156,1989-04-03,Male,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+743,Client157,Customer157,1982-12-12,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+746,Client158,Customer158,1968-04-27,Male,Rundu,Supervisor,"15,800.00","11,534.00","N$ 2,306.80",Current
+747,Client159,Customer159,1968-04-27,Male,Rundu,Customs Officer,"20,000.00","14,600.00","N$ 2,920.00",Current
+748,Client160,Customer160,1968-04-27,Male,Rundu,Tax Officer,"25,000.00","18,250.00","N$ 3,650.00",Current
+749,Client161,Customer161,1968-04-27,Male,Rundu,Tax Officer,"28,000.00","20,440.00","N$ 4,088.00",Current
+752,Client162,Customer162,1974-10-10,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+753,Client163,Customer163,1980-07-09,Male,Okahandja,Teacher,"15,600.00","11,388.00","N$ 2,277.60",Current
+754,Client164,Customer164,1960-05-16,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+755,Client165,Customer165,1988-06-10,Male,Rundu,Nurse,"22,000.00","16,060.00","N$ 3,212.00",Current
+756,Client166,Customer166,1985-06-25,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+757,Client167,Customer167,1964-11-20,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+759,Client168,Customer168,1965-06-03,Male,Rundu,Soldier,"14,000.00","10,220.00","N$ 2,044.00",Current
+760,Client169,Customer169,1987-11-06,Female,Rundu,Messenger,"5,100.00","3,723.00",N$ 744.60,Current
+761,Client170,Customer170,1974-01-14,Female,Okahandja,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+762,Client171,Customer171,1990-06-10,Male,Rundu,Accountant,"27,344.00","19,961.12","N$ 3,992.22",Current
+763,Client172,Customer172,1972-03-05,Male,Rundu,Secretary,"1,900.00","1,387.00",N$ 277.40,Current
+764,Client173,Customer173,1984-12-09,Male,Rundu,General Worker,"9,000.00","6,570.00","N$ 1,314.00",Current
+765,Client174,Customer174,1968-10-23,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+766,Client175,Customer175,1967-03-17,Male,Rundu,Police Officer,"12,000.00","8,760.00","N$ 1,752.00",Current
+767,Client176,Customer176,1987-01-27,Female,Rundu,Administration Officer,"11,271.71","8,228.35","N$ 1,645.67",Current
+768,Client177,Customer177,1989-03-18,Male,Rundu,Soldier,"20,500.00","14,965.00","N$ 2,993.00",Current
+769,Client178,Customer178,1968-11-04,Male,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+770,Client179,Customer179,1983-10-02,Male,Rundu,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+771,Client180,Customer180,1989-06-24,Male,Rundu,Driver,"7,000.00","5,110.00","N$ 1,022.00",Current
+772,Client181,Customer181,2002-01-13,Male,Rundu,Soldier,"14,000.00","10,220.00","N$ 2,044.00",Current
+773,Client182,Customer182,1963-09-13,Male,Rundu,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+774,Client183,Customer183,1966-06-26,Male,Rundu,Customs Officer,"21,361.58","15,593.95","N$ 3,118.79",Current
+775,Client184,Customer184,1962-11-09,Female,Rundu,Nurse,"12,000.00","8,760.00","N$ 1,752.00",Current
+776,Client185,Customer185,1982-07-09,Male,Rundu,Nurse,"18,000.00","13,140.00","N$ 2,628.00",Current
+777,Client186,Customer186,1986-04-29,Male,Rundu,Soldier,"16,500.00","12,045.00","N$ 2,409.00",Current
+778,Client187,Customer187,1969-06-24,Male,Rundu,Prison Officer,"17,000.00","12,410.00","N$ 2,482.00",Current
+779,Client188,Customer188,1964-06-02,Male,Rundu,Soldier,"16,500.00","12,045.00","N$ 2,409.00",Current
+780,Client189,Customer189,1974-02-05,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+781,Client190,Customer190,1991-10-27,Male,Rundu,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+782,Client191,Customer191,1965-08-27,Male,Rundu,Accountant,"29,000.00","21,170.00","N$ 4,234.00",Current
+783,Client192,Customer192,1959-03-03,Female,Rundu,Accountant,"28,342.08","20,689.72","N$ 4,137.94",Current
+784,Client193,Customer193,1964-02-12,Male,Rundu,Administration Officer,"28,538.92","20,833.41","N$ 4,166.68",Current
+785,Client194,Customer194,1967-08-15,Female,Rundu,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+786,Client195,Customer195,1966-11-20,Male,Rundu,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+787,Client196,Customer196,1980-08-10,Female,Rundu,Administration Officer,"15,043.39","10,981.67","N$ 2,196.33",Current
+788,Client197,Customer197,1968-03-13,Male,Wavis Bay,Director,"40,200.00","29,346.00","N$ 5,869.20",Current
+789,Client198,Customer198,1969-02-16,Male,Wavis Bay,Director,"45,000.00","32,850.00","N$ 6,570.00",Current
+790,Client199,Customer199,1988-06-24,Male,Wavis Bay,Driver,"8,942.00","6,527.66","N$ 1,305.53",Current
+791,Client200,Customer200,1965-01-02,Male,Wavis Bay,Soldier,"16,500.00","12,045.00","N$ 2,409.00",Current
+793,Client201,Customer201,1961-06-08,Male,Wavis Bay,Administration Officer,"12,303.00","8,981.19","N$ 1,796.24",Current
+794,Client202,Customer202,1967-05-21,Male,Wavis Bay,Administration Officer,"10,884.75","7,945.87","N$ 1,589.17",Current
+795,Client203,Customer203,1985-05-01,Female,Wavis Bay,Police Officer,"12,500.00","9,125.00","N$ 1,825.00",Current
+796,Client204,Customer204,1965-02-28,Female,Wavis Bay,Accountant,"33,129.79","24,184.75","N$ 4,836.95",Current
+797,Client205,Customer205,1968-08-03,Female,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+798,Client206,Customer206,1965-02-02,Female,Wavis Bay,Accountant,"33,129.75","24,184.72","N$ 4,836.94",Current
+799,Client207,Customer207,1950-08-30,Female,Wavis Bay,Police Officer,"16,000.00","11,680.00","N$ 2,336.00",Current
+800,Client208,Customer208,1982-04-13,Female,Wavis Bay,Supervisor,"25,000.00","18,250.00","N$ 3,650.00",Current
+801,Client209,Customer209,1981-12-11,Female,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+802,Client210,Customer210,1966-02-01,Female,Wavis Bay,Administration Officer,"12,402.58","9,053.88","N$ 1,810.78",Current
+803,Client211,Customer211,1965-09-12,Female,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+804,Client212,Customer212,1967-02-01,Female,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+805,Client213,Customer213,1969-01-07,Male,Wavis Bay,Administration Officer,"22,001.00","16,060.73","N$ 3,212.15",Current
+806,Client214,Customer214,1983-07-31,Male,Wavis Bay,Soldier,"16,500.00","12,045.00","N$ 2,409.00",Current
+807,Client215,Customer215,1967-05-05,Female,Wavis Bay,Nurse,"19,500.00","14,235.00","N$ 2,847.00",Current
+808,Client216,Customer216,1960-11-01,Male,Wavis Bay,Administration Officer,"10,000.00","7,300.00","N$ 1,460.00",Current
+809,Client217,Customer217,1980-06-10,Male,Wavis Bay,HR Manager,"25,600.00","18,688.00","N$ 3,737.60",Current
+810,Client218,Customer218,1984-09-10,Male,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+811,Client219,Customer219,1983-04-03,Male,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+812,Client220,Customer220,1989-06-24,Male,Wavis Bay,General Worker,"8,000.00","5,840.00","N$ 1,168.00",Current
+813,Client221,Customer221,1986-09-02,Female,Wavis Bay,Police Officer,"14,500.00","10,585.00","N$ 2,117.00",Current
+814,Client222,Customer222,1960-10-29,Female,Wavis Bay,Administration Officer,"14,099.00","10,292.27","N$ 2,058.45",Current
+815,Client223,Customer223,1966-05-10,Male,Wavis Bay,Tax Officer,"32,000.00","23,360.00","N$ 4,672.00",Current
+816,Client224,Customer224,1972-08-21,Male,Wavis Bay,Tax Officer,"25,000.00","18,250.00","N$ 3,650.00",Current
+817,Client225,Customer225,1980-05-30,Female,Wavis Bay,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+818,Client226,Customer226,1963-05-07,Female,Wavis Bay,Messenger,"5,000.00","3,650.00",N$ 730.00,Current
+819,Client227,Customer227,1967-05-21,Female,Wavis Bay,Administration Officer,"10,250.45","7,482.83","N$ 1,496.57",Current
+820,Client228,Customer228,1985-07-09,Male,Wavis Bay,Tax Officer,"26,900.00","19,637.00","N$ 3,927.40",Current
+821,Client229,Customer229,1965-01-17,Male,Wavis Bay,Police Officer,"13,500.00","9,855.00","N$ 1,971.00",Current
+822,Client230,Customer230,1978-05-31,Male,Wavis Bay,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+823,Client231,Customer231,1967-05-05,Male,Wavis Bay,Secretary,"12,000.00","8,760.00","N$ 1,752.00",Current
+824,Client232,Customer232,1991-09-30,Male,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+825,Client233,Customer233,1967-02-01,Male,Wavis Bay,Driver,"5,660.00","4,131.80",N$ 826.36,Current
+826,Client234,Customer234,1992-06-06,Female,Wavis Bay,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+827,Client235,Customer235,1966-07-23,Female,Wavis Bay,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+829,Client236,Customer236,1966-08-24,Female,Wavis Bay,Soldier,"14,000.00","10,220.00","N$ 2,044.00",Current
+830,Client237,Customer237,1966-11-20,Female,Wavis Bay,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+831,Client238,Customer238,1966-10-16,Male,Wavis Bay,Police Officer,"13,700.00","10,001.00","N$ 2,000.20",Current
+832,Client239,Customer239,1964-10-29,Male,Wavis Bay,Administration Officer,"9,728.00","7,101.44","N$ 1,420.29",Current
+833,Client240,Customer240,1991-07-07,Female,Wavis Bay,Police Officer,"17,500.00","12,775.00","N$ 2,555.00",Current
+834,Client241,Customer241,1978-05-31,Female,Wavis Bay,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+835,Client242,Customer242,1986-04-29,Male,Wavis Bay,Supervisor,"28,500.00","20,805.00","N$ 4,161.00",Current
+836,Client243,Customer243,1966-08-20,Male,Wavis Bay,General Worker,"11,664.36","8,514.98","N$ 1,703.00",Current
+837,Client244,Customer244,1989-04-30,Female,Wavis Bay,Secretary,"8,500.00","6,205.00","N$ 1,241.00",Current
+838,Client245,Customer245,1987-04-04,Male,Wavis Bay,Accountant,"20,000.00","14,600.00","N$ 2,920.00",Current
+840,Client246,Customer246,1989-10-27,Male,Wavis Bay,Administration Officer,"16,200.00","11,826.00","N$ 2,365.20",Current
+842,Client247,Customer247,1965-12-31,Male,Wavis Bay,Accountant,"27,000.00","19,710.00","N$ 3,942.00",Current
+843,Client248,Customer248,1991-04-03,Male,Wavis Bay,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+844,Client249,Customer249,1964-11-20,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+845,Client250,Customer250,1967-10-30,Male,Windhoek,Clerk,"5,400.00","3,942.00",N$ 788.40,Current
+846,Client251,Customer251,1971-09-30,Male,Windhoek,Messenger,"4,800.00","3,504.00",N$ 700.80,Current
+847,Client252,Customer252,1968-02-06,Female,Windhoek,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+848,Client253,Customer253,1963-01-18,Female,Windhoek,Police Officer,"14,000.00","10,220.00","N$ 2,044.00",Current
+849,Client254,Customer254,1976-05-21,Female,Windhoek,Administration Officer,"15,000.00","10,950.00","N$ 2,190.00",Current
+850,Client255,Customer255,1967-12-11,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+851,Client256,Customer256,1965-08-15,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+852,Client257,Customer257,1973-10-02,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+853,Client258,Customer258,1982-04-30,Female,Windhoek,Clerk,"5,000.00","3,650.00",N$ 730.00,Current
+854,Client259,Customer259,1989-08-14,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+855,Client260,Customer260,1991-01-26,Male,Windhoek,Soldier,"14,000.00","10,220.00","N$ 2,044.00",Current
+856,Client261,Customer261,1965-08-02,Female,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+857,Client262,Customer262,1967-08-08,Female,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+858,Client263,Customer263,1967-08-15,Female,Windhoek,Administration Officer,"9,814.75","7,164.77","N$ 1,432.95",Current
+859,Client264,Customer264,1965-01-17,Male,Windhoek,Supervisor,"35,000.00","25,550.00","N$ 5,110.00",Current
+860,Client265,Customer265,1969-02-08,Male,Windhoek,Administration Officer,"12,000.00","8,760.00","N$ 1,752.00",Current
+861,Client266,Customer266,1974-02-12,Male,Windhoek,Driver,"11,470.42","8,373.41","N$ 1,674.68",Current
+862,Client267,Customer267,1967-08-25,Female,Windhoek,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+863,Client268,Customer268,1967-09-02,Female,Windhoek,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+864,Client269,Customer269,1989-01-26,Male,Windhoek,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+865,Client270,Customer270,1986-02-25,Male,Windhoek,Director,"50,000.00","36,500.00","N$ 7,300.00",Current
+866,Client271,Customer271,1987-10-01,Female,Windhoek,Administration Officer,"9,000.00","6,570.00","N$ 1,314.00",Current
+867,Client272,Customer272,1962-05-16,Female,Windhoek,Administration Officer,"22,000.00","16,060.00","N$ 3,212.00",Current
+868,Client273,Customer273,1984-07-08,Male,Windhoek,Administration Officer,"24,432.42","17,835.67","N$ 3,567.13",Current
+869,Client274,Customer274,1986-02-27,Female,Windhoek,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+870,Client275,Customer275,1992-06-09,Female,Windhoek,Accountant,"29,000.00","21,170.00","N$ 4,234.00",Current
+871,Client276,Customer276,1968-06-05,Male,Windhoek,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+873,Client277,Customer277,1969-12-10,Male,Windhoek,Teacher,"23,500.00","17,155.00","N$ 3,431.00",Current
+874,Client278,Customer278,1972-10-10,Female,Windhoek,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+876,Client279,Customer279,1968-09-27,Female,Windhoek,Director,"49,500.00","36,135.00","N$ 7,227.00",Current
+877,Client280,Customer280,1971-06-30,Male,Windhoek,Administration Officer,"13,000.00","9,490.00","N$ 1,898.00",Current
+878,Client281,Customer281,1964-01-01,Female,Windhoek,Soldier,"20,500.00","14,965.00","N$ 2,993.00",Current
+879,Client282,Customer282,1985-08-15,Female,Windhoek,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+880,Client283,Customer283,1967-03-17,Male,Windhoek,Cleaner,"4,500.00","3,285.00",N$ 657.00,Current
+881,Client284,Customer284,1962-10-29,Male,Windhoek,Soldier,"16,500.00","12,045.00","N$ 2,409.00",Current
+882,Client285,Customer285,1964-04-11,Male,Windhoek,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+883,Client286,Customer286,1987-08-15,Male,Windhoek,Cleaner,"3,000.00","2,190.00",N$ 438.00,Current
+883,Client287,Customer287,1998-01-14,Female,Windhoek,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+884,Client288,Customer288,1972-02-06,Female,Windhoek,Customs Officer,"25,429.07","18,563.22","N$ 3,712.64",Current
+885,Client289,Customer289,1979-10-03,Female,Windhoek,Cleaner,"4,200.00","3,066.00",N$ 613.20,Current
+888,Client290,Customer290,2000-01-14,Male,Windhoek,Teacher,"30,000.00","21,900.00","N$ 4,380.00",Current
+889,Client291,Customer291,1979-08-01,Female,Windhoek,Teacher,"20,000.00","14,600.00","N$ 2,920.00",Current
+890,Client292,Customer292,1976-05-31,Male,Windhoek,Police Officer,"16,500.00","12,045.00","N$ 2,409.00",Current
+892,Client293,Customer293,1973-06-09,Male,Windhoek,Supervisor,"20,000.00","14,600.00","N$ 2,920.00",Current
+893,Client294,Customer294,1971-10-29,Female,Okahandja,Police Officer,"13,000.00","9,490.00","N$ 1,898.00",Current
+895,Client295,Customer295,1992-06-09,Female,Okahandja,Soldier,"12,500.00","9,125.00","N$ 1,825.00",Current
+908,Client296,Customer296,1960-01-31,Male,Okahandja,Administration Officer,"35,000.00","25,550.00","N$ 5,110.00",Current
+909,Client297,Customer297,1963-01-18,Male,Okahandja,General Worker,"10,000.00","7,300.00","N$ 1,460.00",Current
+912,Client298,Customer298,1982-02-28,Female,Okahandja,Secretary,"9,800.00","7,154.00","N$ 1,430.80",Current
+913,Client299,Customer299,1963-06-04,Female,Okahandja,Police Officer,"15,000.00","10,950.00","N$ 2,190.00",Current
