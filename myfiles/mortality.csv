@@ -1,0 +1,588 @@
+transref,student_age,cause,censusyear,region,male_count,female_count,total_count
+101,7,Accident,2017,//Kharas,1,1,2
+102,9,Accident,2018,//Kharas,0,1,1
+103,16,Accident,2019,//Kharas,1,1,2
+104,19,Accident,2020,//Kharas,0,1,1
+105,8,Illness,2017,//Kharas,2,1,3
+106,10,Accident,2017,//Kharas,0,1,1
+107,13,Suicide,2017,//Kharas,1,0,1
+108,13,Violence & Homicide,2017,//Kharas,0,1,1
+109,7,Accident,2016,//Kharas,0,1,1
+110,8,Illness,2016,//Kharas,1,0,1
+111,10,Accident,2016,//Kharas,0,1,1
+112,13,Suicide,2016,//Kharas,1,0,1
+113,13,Violence & Homicide,2016,//Kharas,1,1,2
+114,18,Accident,2015,//Kharas,2,1,3
+115,14,Illness,2015,//Kharas,3,1,4
+116,11,Accident,2015,//Kharas,2,1,3
+117,22,Suicide,2015,//Kharas,1,2,3
+118,23,Violence & Homicide,2015,//Kharas,2,1,3
+119,11,Suicide,2015,//Kharas,1,2,3
+120,18,Accident,2014,//Kharas,1,2,3
+121,13,Illness,2014,//Kharas,3,1,4
+122,12,Accident,2014,//Kharas,2,1,3
+123,20,Suicide,2014,//Kharas,1,2,3
+124,23,Violence & Homicide,2014,//Kharas,0,1,1
+125,11,Suicide,2014,//Kharas,1,2,3
+126,14,Accident,2016,Erongo,1,0,1
+127,8,Accident,2016,Erongo,0,0,0
+128,17,Illness,2016,Erongo,0,0,0
+129,8,Illness,2016,Erongo,0,0,0
+130,6,Illness,2016,Erongo,1,0,1
+131,8,Illness,2016,Erongo,1,0,1
+132,6,Accident,2017,Erongo,0,1,1
+133,19,Accident,2017,Erongo,0,1,1
+134,14,Accident,2017,Erongo,1,0,1
+135,12,Accident,2017,Erongo,0,1,1
+136,9,Accident,2017,Erongo,0,1,1
+137,18,Illness,2017,Erongo,1,0,1
+138,10,Illness,2017,Erongo,1,1,2
+139,11,Illness,2017,Erongo,6,6,12
+140,12,Illness,2017,Erongo,2,1,3
+141,18,Accident,2015,Erongo,1,3,4
+142,14,Illness,2015,Erongo,1,0,1
+143,11,Accident,2015,Erongo,3,2,5
+144,22,Suicide,2015,Erongo,2,1,3
+145,23,Violence & Homicide,2015,Erongo,0,2,2
+146,11,Suicide,2015,Erongo,2,1,3
+147,18,Accident,2014,Erongo,1,3,4
+148,13,Illness,2014,Erongo,2,2,4
+149,12,Accident,2014,Erongo,3,4,7
+150,20,Suicide,2014,Erongo,0,1,1
+151,23,Violence & Homicide,2014,Erongo,2,2,4
+152,11,Suicide,2014,Erongo,1,3,4
+153,11,Accident,2016,Hardap,4,0,4
+154,14,Accident,2016,Hardap,1,0,1
+155,20,Accident,2016,Hardap,0,1,1
+156,8,Accident,2016,Hardap,1,0,1
+157,11,Accident,2016,Hardap,0,0,0
+158,10,Illness,2016,Hardap,0,0,0
+159,11,Illness,2016,Hardap,1,0,1
+160,17,Illness,2016,Hardap,1,1,2
+161,20,Illness,2016,Hardap,0,2,2
+162,11,Illness,2016,Hardap,0,0,0
+163,19,Suicide,2016,Hardap,0,1,1
+164,17,Suicide,2016,Hardap,1,0,1
+165,20,Suicide,2016,Hardap,1,0,1
+166,6,Violence & Homicide,2016,Hardap,0,0,0
+167,20,Violence & Homicide,2016,Hardap,1,0,1
+168,6,Accident,2017,Hardap,0,1,1
+169,8,Accident,2017,Hardap,0,1,1
+170,8,Accident,2017,Hardap,0,1,1
+171,15,Accident,2017,Hardap,1,0,1
+172,13,Accident,2017,Hardap,1,0,1
+173,15,Accident,2017,Hardap,1,0,1
+174,10,Illness,2017,Hardap,1,1,2
+175,8,Illness,2017,Hardap,0,1,1
+176,16,Illness,2017,Hardap,1,1,2
+177,13,Violence & Homicide,2017,Hardap,1,0,1
+178,11,Accident,2014,Hardap,3,1,4
+179,14,Accident,2014,Hardap,2,1,3
+180,20,Accident,2014,Hardap,1,0,1
+181,8,Accident,2014,Hardap,0,1,1
+182,11,Accident,2014,Hardap,1,1,2
+183,10,Illness,2014,Hardap,1,1,2
+184,11,Illness,2014,Hardap,2,1,3
+185,17,Illness,2014,Hardap,3,0,3
+186,20,Illness,2014,Hardap,1,3,4
+187,11,Illness,2014,Hardap,1,1,2
+188,19,Suicide,2014,Hardap,2,2,4
+189,17,Suicide,2014,Hardap,3,1,4
+190,20,Suicide,2014,Hardap,0,1,1
+191,6,Violence & Homicide,2014,Hardap,1,2,3
+192,20,Violence & Homicide,2014,Hardap,2,2,4
+193,6,Accident,2015,Hardap,1,0,1
+194,8,Accident,2015,Hardap,0,2,2
+195,8,Accident,2015,Hardap,0,3,3
+196,15,Accident,2015,Hardap,2,1,3
+197,13,Accident,2015,Hardap,2,1,3
+198,15,Accident,2015,Hardap,3,0,3
+199,10,Illness,2015,Hardap,1,0,1
+200,8,Illness,2015,Hardap,1,2,3
+201,16,Illness,2015,Hardap,2,2,4
+202,13,Violence & Homicide,2015,Hardap,2,1,3
+203,5,Accident,2016,Kavango East,0,0,0
+204,6,Accident,2016,Kavango East,1,0,1
+205,20,Accident,2016,Kavango East,0,0,0
+206,5,Accident,2016,Kavango East,0,0,0
+207,13,Accident,2016,Kavango East,1,0,1
+208,8,Accident,2016,Kavango East,0,0,0
+209,14,Accident,2016,Kavango East,0,0,0
+210,8,Illness,2016,Kavango East,1,0,1
+211,10,Illness,2016,Kavango East,1,0,1
+212,11,Illness,2016,Kavango East,0,0,0
+213,19,Illness,2016,Kavango East,0,0,0
+214,14,Illness,2016,Kavango East,0,0,0
+215,10,Illness,2016,Kavango East,1,0,1
+216,6,Illness,2016,Kavango East,0,0,0
+217,17,Illness,2016,Kavango East,0,0,0
+218,7,Illness,2016,Kavango East,0,1,1
+219,13,Illness,2016,Kavango East,0,0,0
+220,16,Illness,2016,Kavango East,0,0,0
+221,6,Illness,2016,Kavango East,0,0,0
+222,9,Illness,2016,Kavango East,0,0,0
+223,7,Accident,2017,Kavango East,1,0,1
+224,9,Illness,2017,Kavango East,0,0,0
+225,8,Illness,2017,Kavango East,0,1,1
+226,13,Illness,2017,Kavango East,0,1,1
+227,10,Illness,2017,Kavango East,1,0,1
+228,19,Illness,2017,Kavango East,0,1,1
+229,14,Illness,2017,Kavango East,1,0,1
+230,13,Illness,2017,Kavango East,1,0,1
+231,13,Illness,2017,Kavango East,1,0,1
+232,7,Illness,2017,Kavango East,0,1,1
+233,10,Illness,2017,Kavango East,1,0,1
+234,11,Illness,2017,Kavango East,1,0,1
+235,13,Illness,2017,Kavango East,0,0,0
+236,9,Illness,2017,Kavango East,0,1,1
+237,13,Illness,2017,Kavango East,1,0,1
+238,19,Illness,2017,Kavango East,1,0,1
+239,25,Illness,2017,Kavango East,1,0,1
+240,7,Illness,2017,Kavango East,1,0,1
+241,18,Illness,2017,Kavango East,0,1,1
+242,11,Illness,2017,Kavango East,1,0,1
+243,13,Illness,2017,Kavango East,0,1,1
+244,19,Illness,2017,Kavango East,1,0,1
+245,15,Illness,2017,Kavango East,0,1,1
+246,16,Illness,2017,Kavango East,1,0,1
+247,18,Illness,2017,Kavango East,1,0,1
+248,19,Suicide,2017,Kavango East,0,1,1
+249,19,Suicide,2017,Kavango East,1,0,1
+250,17,Violence & Homicide,2017,Kavango East,1,0,1
+251,6,Accident,2014,Kavango East,1,1,2
+252,8,Accident,2014,Kavango East,2,1,3
+253,11,Accident,2014,Kavango East,1,1,2
+254,20,Accident,2014,Kavango East,3,1,4
+255,16,Illness,2014,Kavango East,1,1,2
+256,9,Illness,2014,Kavango East,1,2,3
+257,14,Illness,2014,Kavango East,1,2,3
+258,20,Illness,2014,Kavango East,2,1,3
+259,7,Illness,2014,Kavango East,3,1,4
+260,14,Illness,2014,Kavango East,1,1,2
+261,7,Accident,2014,Kavango East,1,1,2
+262,9,Accident,2014,Kavango East,2,1,3
+263,8,Accident,2014,Kavango East,1,2,3
+264,11,Illness,2015,Kavango East,0,3,3
+265,13,Illness,2015,Kavango East,3,1,4
+266,19,Illness,2015,Kavango East,2,1,3
+267,15,Illness,2015,Kavango East,1,1,2
+268,16,Illness,2015,Kavango East,1,2,3
+269,18,Illness,2015,Kavango East,1,1,2
+270,19,Suicide,2015,Kavango East,0,2,2
+271,16,Suicide,2015,Kavango East,1,1,2
+272,17,Violence & Homicide,2015,Kavango East,1,2,3
+273,6,Accident,2016,Kavango West,1,0,1
+274,15,Illness,2016,Kavango West,1,0,1
+275,14,Illness,2016,Kavango West,0,0,0
+276,6,Illness,2016,Kavango West,1,1,2
+277,11,Illness,2016,Kavango West,1,0,1
+278,14,Illness,2016,Kavango West,0,1,1
+279,14,Illness,2016,Kavango West,0,0,0
+280,10,Illness,2016,Kavango West,1,0,1
+281,12,Illness,2016,Kavango West,0,0,0
+282,12,Illness,2016,Kavango West,0,0,0
+283,14,Accident,2017,Kavango West,1,0,1
+284,9,Accident,2017,Kavango West,0,1,1
+285,20,Accident,2017,Kavango West,1,0,1
+286,18,Accident,2017,Kavango West,1,1,2
+287,13,Accident,2017,Kavango West,1,1,2
+288,5,Accident,2017,Kavango West,1,0,1
+289,10,Accident,2017,Kavango West,0,1,1
+290,14,Accident,2017,Kavango West,1,0,1
+291,13,Illness,2017,Kavango West,1,0,1
+292,5,Illness,2017,Kavango West,1,0,1
+293,17,Illness,2017,Kavango West,1,0,1
+294,14,Illness,2017,Kavango West,0,1,1
+295,19,Illness,2017,Kavango West,0,1,1
+296,11,Illness,2017,Kavango West,1,0,1
+297,14,Illness,2017,Kavango West,1,0,1
+298,6,Illness,2017,Kavango West,0,0,0
+299,19,Violence & Homicide,2017,Kavango West,1,0,1
+300,16,Violence & Homicide,2017,Kavango West,0,3,3
+301,6,Accident,2014,Kavango West,1,1,2
+302,11,Illness,2014,Kavango West,1,2,3
+303,14,Illness,2014,Kavango West,1,1,2
+304,10,Illness,2014,Kavango West,2,0,2
+305,12,Illness,2014,Kavango West,0,0,0
+306,18,Accident,2015,Kavango West,0,3,3
+307,13,Accident,2015,Kavango West,1,2,3
+308,5,Accident,2015,Kavango West,1,1,2
+309,10,Accident,2015,Kavango West,1,1,2
+310,14,Accident,2015,Kavango West,2,0,2
+311,13,Illness,2015,Kavango West,2,1,3
+312,5,Illness,2015,Kavango West,1,1,2
+313,17,Illness,2015,Kavango West,1,0,1
+314,14,Illness,2015,Kavango West,2,1,3
+315,19,Violence & Homicide,2015,Kavango West,1,0,1
+316,16,Violence & Homicide,2015,Kavango West,1,3,4
+317,17,Accident,2016,Khomas,1,0,1
+318,11,Accident,2016,Khomas,1,0,1
+319,6,Accident,2016,Khomas,1,0,1
+320,14,Accident,2016,Khomas,1,0,1
+321,7,Accident,2016,Khomas,0,1,1
+322,6,Accident,2016,Khomas,2,0,2
+323,13,Accident,2016,Khomas,1,0,1
+324,14,Illness,2016,Khomas,0,1,1
+325,8,Illness,2016,Khomas,0,1,1
+326,11,Illness,2016,Khomas,0,1,1
+327,13,Accident,2017,Khomas,1,0,1
+328,8,Accident,2017,Khomas,1,0,1
+329,6,Accident,2017,Khomas,1,0,1
+330,8,Accident,2017,Khomas,1,1,2
+331,10,Accident,2017,Khomas,0,0,0
+332,11,Accident,2017,Khomas,1,0,1
+333,15,Accident,2017,Khomas,0,2,2
+334,17,Accident,2017,Khomas,1,0,1
+335,9,Illness,2017,Khomas,0,1,1
+336,8,Illness,2017,Khomas,1,0,1
+337,10,Illness,2017,Khomas,1,0,1
+338,14,Illness,2017,Khomas,1,0,1
+339,15,Illness,2017,Khomas,0,1,1
+340,12,Suicide,2017,Khomas,0,1,1
+341,16,Suicide,2017,Khomas,1,0,1
+342,14,Suicide,2017,Khomas,3,0,3
+343,6,Violence & Homicide,2017,Khomas,0,1,1
+344,16,Accident,2014,Khomas,2,1,3
+345,12,Accident,2014,Khomas,0,1,1
+346,7,Accident,2014,Khomas,1,1,2
+347,14,Accident,2014,Khomas,1,2,3
+348,19,Accident,2014,Khomas,0,1,1
+349,22,Accident,2014,Khomas,2,1,3
+350,20,Accident,2014,Khomas,1,0,1
+351,14,Illness,2014,Khomas,0,2,2
+352,8,Illness,2014,Khomas,1,1,2
+353,11,Illness,2014,Khomas,0,1,1
+354,13,Accident,2015,Khomas,1,0,1
+355,8,Accident,2015,Khomas,1,2,3
+356,6,Accident,2015,Khomas,2,0,2
+357,12,Accident,2015,Khomas,1,1,2
+358,17,Accident,2015,Khomas,1,1,2
+359,9,Illness,2015,Khomas,0,1,1
+360,8,Illness,2015,Khomas,1,0,1
+361,10,Illness,2015,Khomas,1,2,3
+362,14,Illness,2015,Khomas,1,0,1
+363,15,Illness,2015,Khomas,0,1,1
+364,12,Suicide,2015,Khomas,0,1,1
+365,16,Suicide,2015,Khomas,1,0,1
+366,14,Suicide,2015,Khomas,3,0,3
+367,6,Violence & Homicide,2015,Khomas,0,1,1
+368,14,Accident,2016,Kunene,0,0,0
+369,11,Illness,2016,Kunene,0,0,0
+370,11,Illness,2016,Kunene,0,1,1
+371,7,Illness,2016,Kunene,0,0,0
+372,16,Illness,2016,Kunene,0,1,1
+373,17,Illness,2016,Kunene,2,4,6
+374,13,Illness,2016,Kunene,0,1,1
+375,7,Illness,2016,Kunene,1,0,1
+376,13,Violence & Homicide,2016,Kunene,0,1,1
+377,17,Accident,2017,Kunene,1,0,1
+378,19,Accident,2017,Kunene,1,0,1
+379,11,Accident,2017,Kunene,1,0,1
+380,9,Accident,2017,Kunene,0,1,1
+381,12,Accident,2017,Kunene,0,1,1
+382,10,Illness,2017,Kunene,1,0,1
+383,5,Illness,2017,Kunene,0,1,1
+384,14,Illness,2017,Kunene,0,1,1
+385,7,Illness,2017,Kunene,0,1,1
+386,13,Illness,2017,Kunene,0,1,1
+387,7,Illness,2017,Kunene,0,0,0
+388,8,Illness,2017,Kunene,0,0,0
+389,9,Illness,2017,Kunene,0,0,0
+390,8,Illness,2017,Kunene,1,0,1
+391,5,Suicide,2017,Kunene,0,1,1
+392,5,Violence & Homicide,2017,Kunene,0,1,1
+393,14,Accident,2014,Kunene,1,0,1
+394,12,Illness,2014,Kunene,1,2,3
+395,11,Illness,2014,Kunene,0,1,1
+396,7,Illness,2014,Kunene,2,1,3
+397,13,Illness,2014,Kunene,1,1,2
+398,7,Illness,2014,Kunene,1,0,1
+399,13,Violence & Homicide,2014,Kunene,2,1,3
+400,17,Accident,2015,Kunene,1,0,1
+401,11,Accident,2015,Kunene,0,0,0
+402,9,Accident,2015,Kunene,0,1,1
+403,12,Accident,2015,Kunene,0,1,1
+404,10,Illness,2015,Kunene,1,0,1
+405,5,Illness,2015,Kunene,1,1,2
+406,14,Illness,2015,Kunene,1,1,2
+407,7,Illness,2015,Kunene,0,0,0
+408,8,Illness,2015,Kunene,1,0,1
+409,9,Illness,2015,Kunene,0,0,0
+410,8,Illness,2015,Kunene,1,0,1
+411,5,Suicide,2015,Kunene,1,1,2
+412,5,Violence & Homicide,2015,Kunene,1,1,2
+413,17,Accident,2016,Ohangwena,1,0,1
+414,8,Illness,2016,Ohangwena,0,0,0
+415,10,Illness,2016,Ohangwena,0,0,0
+416,10,Illness,2016,Ohangwena,1,1,2
+417,10,Illness,2016,Ohangwena,0,0,0
+418,10,Illness,2016,Ohangwena,1,0,1
+419,13,Illness,2016,Ohangwena,0,0,0
+420,10,Illness,2016,Ohangwena,1,0,1
+421,11,Illness,2016,Ohangwena,0,0,0
+422,17,Illness,2016,Ohangwena,1,0,1
+423,11,Illness,2016,Ohangwena,0,1,1
+424,7,Illness,2016,Ohangwena,0,0,0
+425,7,Illness,2016,Ohangwena,1,0,1
+426,16,Illness,2016,Ohangwena,0,0,0
+427,6,Illness,2016,Ohangwena,0,0,0
+428,17,Illness,2016,Ohangwena,0,0,0
+429,8,Illness,2016,Ohangwena,0,1,1
+430,19,Suicide,2016,Ohangwena,1,0,1
+431,19,Suicide,2016,Ohangwena,0,0,0
+432,8,Accident,2017,Ohangwena,0,1,1
+433,17,Accident,2017,Ohangwena,1,0,1
+434,17,Accident,2017,Ohangwena,1,0,1
+435,7,Accident,2017,Ohangwena,0,1,1
+436,9,Accident,2017,Ohangwena,1,0,1
+437,13,Illness,2017,Ohangwena,1,0,1
+438,8,Illness,2017,Ohangwena,1,0,1
+439,16,Illness,2017,Ohangwena,1,0,1
+440,18,Illness,2017,Ohangwena,0,1,1
+441,10,Illness,2017,Ohangwena,0,1,1
+442,18,Illness,2017,Ohangwena,0,0,0
+443,7,Illness,2017,Ohangwena,1,0,1
+444,11,Illness,2017,Ohangwena,0,1,1
+445,8,Illness,2017,Ohangwena,1,0,1
+446,19,Illness,2017,Ohangwena,0,1,1
+447,16,Illness,2017,Ohangwena,1,0,1
+448,16,Suicide,2017,Ohangwena,1,0,1
+449,21,Violence & Homicide,2017,Ohangwena,0,1,1
+450,18,Accident,2014,Ohangwena,1,0,1
+451,8,Illness,2014,Ohangwena,0,0,0
+452,7,Illness,2014,Ohangwena,1,0,1
+453,17,Illness,2014,Ohangwena,0,0,0
+454,6,Illness,2014,Ohangwena,0,0,0
+455,20,Illness,2014,Ohangwena,0,0,0
+456,14,Illness,2014,Ohangwena,0,1,1
+457,11,Suicide,2014,Ohangwena,1,0,1
+458,19,Suicide,2014,Ohangwena,0,1,1
+459,8,Accident,2015,Ohangwena,2,1,3
+460,7,Accident,2015,Ohangwena,0,1,1
+461,9,Accident,2015,Ohangwena,1,0,1
+462,13,Illness,2015,Ohangwena,2,1,3
+463,8,Illness,2015,Ohangwena,1,0,1
+464,8,Illness,2015,Ohangwena,1,0,1
+465,19,Illness,2015,Ohangwena,0,1,1
+466,16,Illness,2015,Ohangwena,1,0,1
+467,16,Suicide,2015,Ohangwena,1,0,1
+468,21,Violence & Homicide,2015,Ohangwena,1,1,2
+469,15,Accident,2016,Omaheke,1,0,1
+470,8,Accident,2016,Omaheke,1,0,1
+471,13,Illness,2016,Omaheke,0,0,0
+472,11,Illness,2016,Omaheke,0,1,1
+473,11,Illness,2016,Omaheke,0,0,0
+474,14,Illness,2016,Omaheke,0,0,0
+475,5,Illness,2016,Omaheke,0,0,0
+476,10,Suicide,2016,Omaheke,1,0,1
+477,18,Violence & Homicide,2016,Omaheke,1,0,1
+478,11,Violence & Homicide,2016,Omaheke,0,0,0
+479,18,Accident,2017,Omaheke,1,0,1
+480,12,Accident,2017,Omaheke,1,0,1
+481,9,Accident,2017,Omaheke,1,0,1
+482,18,Accident,2017,Omaheke,1,0,1
+483,13,Accident,2017,Omaheke,1,0,1
+484,6,Illness,2017,Omaheke,1,1,2
+485,11,Illness,2017,Omaheke,0,0,0
+486,11,Illness,2017,Omaheke,1,0,1
+487,14,Suicide,2017,Omaheke,0,1,1
+488,15,Accident,2014,Omaheke,1,1,2
+489,8,Accident,2014,Omaheke,1,1,2
+490,13,Illness,2014,Omaheke,2,0,2
+491,11,Illness,2014,Omaheke,1,1,2
+492,12,Illness,2014,Omaheke,0,1,1
+493,14,Illness,2014,Omaheke,0,2,2
+494,5,Illness,2014,Omaheke,0,1,1
+495,10,Suicide,2014,Omaheke,1,0,1
+496,18,Violence & Homicide,2014,Omaheke,2,1,3
+497,11,Violence & Homicide,2014,Omaheke,1,0,1
+498,9,Accident,2015,Omaheke,0,1,1
+499,18,Accident,2015,Omaheke,1,1,2
+500,13,Accident,2015,Omaheke,1,1,2
+501,6,Illness,2015,Omaheke,1,1,2
+502,11,Illness,2015,Omaheke,2,0,2
+503,11,Illness,2015,Omaheke,1,0,1
+504,14,Suicide,2015,Omaheke,0,1,1
+505,10,Accident,2016,Omusati,0,1,1
+506,6,Accident,2016,Omusati,0,0,0
+507,14,Accident,2016,Omusati,1,0,1
+508,5,Illness,2016,Omusati,0,0,0
+509,6,Illness,2016,Omusati,0,0,0
+510,20,Violence & Homicide,2016,Omusati,0,1,1
+511,12,Accident,2017,Omusati,1,0,1
+512,18,Accident,2017,Omusati,1,0,1
+513,13,Accident,2017,Omusati,1,0,1
+514,6,Accident,2017,Omusati,0,0,0
+515,14,Accident,2017,Omusati,1,0,1
+516,15,Accident,2017,Omusati,0,0,0
+517,6,Accident,2017,Omusati,0,1,1
+518,9,Accident,2017,Omusati,1,0,1
+519,9,Accident,2017,Omusati,0,0,0
+520,6,Illness,2017,Omusati,0,0,0
+521,6,Illness,2017,Omusati,0,0,0
+522,15,Illness,2017,Omusati,1,0,1
+523,14,Illness,2017,Omusati,1,0,1
+524,18,Illness,2017,Omusati,1,0,1
+525,10,Illness,2017,Omusati,1,0,1
+526,10,Accident,2014,Omusati,1,1,2
+527,7,Accident,2014,Omusati,2,0,2
+528,14,Accident,2014,Omusati,1,0,1
+529,5,Illness,2014,Omusati,1,0,1
+530,6,Illness,2014,Omusati,1,0,1
+531,20,Violence & Homicide,2014,Omusati,2,1,3
+532,12,Accident,2015,Omusati,0,2,2
+533,18,Accident,2015,Omusati,1,0,1
+534,13,Accident,2015,Omusati,0,1,1
+535,6,Accident,2015,Omusati,0,1,1
+536,6,Illness,2015,Omusati,1,0,1
+537,6,Illness,2015,Omusati,1,0,1
+538,15,Illness,2015,Omusati,2,0,2
+539,14,Illness,2015,Omusati,1,1,2
+540,18,Illness,2015,Omusati,1,1,2
+541,10,Illness,2015,Omusati,1,2,3
+542,9,Accident,2016,Oshana,1,0,1
+543,8,Accident,2016,Oshana,1,0,1
+544,25,Accident,2016,Oshana,1,1,2
+545,17,Suicide,2016,Oshana,0,0,0
+546,9,Accident,2017,Oshana,1,0,1
+547,11,Accident,2017,Oshana,1,0,1
+548,9,Accident,2017,Oshana,0,1,1
+549,10,Accident,2017,Oshana,1,0,1
+550,16,Illness,2017,Oshana,0,1,1
+551,8,Illness,2017,Oshana,0,1,1
+552,11,Illness,2017,Oshana,0,1,1
+553,10,Accident,2014,Oshana,1,1,2
+554,9,Accident,2014,Oshana,1,0,1
+555,20,Accident,2014,Oshana,1,1,2
+556,16,Suicide,2014,Oshana,0,0,0
+557,11,Suicide,2014,Oshana,1,0,1
+558,10,Illness,2014,Oshana,1,0,1
+559,11,Illness,2014,Oshana,0,1,1
+560,10,Accident,2015,Oshana,1,0,1
+561,16,Accident,2015,Oshana,1,1,2
+562,11,Accident,2015,Oshana,1,1,2
+563,13,Accident,2015,Oshana,0,1,1
+564,12,Illness,2015,Oshana,2,1,3
+565,13,Illness,2015,Oshana,0,1,1
+566,15,Illness,2015,Oshana,0,1,1
+567,17,Illness,2015,Oshana,0,1,1
+568,14,Accident,2016,Oshikoto,1,0,1
+569,6,Accident,2016,Oshikoto,0,0,0
+570,7,Accident,2016,Oshikoto,1,0,1
+571,20,Accident,2016,Oshikoto,1,0,1
+572,11,Illness,2016,Oshikoto,0,1,1
+573,14,Illness,2016,Oshikoto,0,0,0
+574,20,Suicide,2016,Oshikoto,1,0,1
+575,7,Accident,2017,Oshikoto,0,1,1
+576,14,Accident,2017,Oshikoto,1,0,1
+577,14,Accident,2017,Oshikoto,1,0,1
+578,8,Accident,2017,Oshikoto,1,0,1
+579,9,Accident,2017,Oshikoto,0,0,0
+580,18,Illness,2017,Oshikoto,1,0,1
+581,6,Illness,2017,Oshikoto,0,1,1
+582,9,Illness,2017,Oshikoto,0,1,1
+583,18,Illness,2017,Oshikoto,1,0,1
+584,15,Accident,2014,Oshikoto,1,1,2
+585,8,Accident,2014,Oshikoto,0,1,1
+586,7,Accident,2014,Oshikoto,1,1,2
+587,21,Accident,2014,Oshikoto,1,1,2
+588,11,Illness,2014,Oshikoto,1,1,2
+589,13,Illness,2014,Oshikoto,2,0,2
+590,19,Suicide,2014,Oshikoto,1,0,1
+591,6,Accident,2015,Oshikoto,0,2,2
+592,13,Accident,2015,Oshikoto,1,1,2
+593,14,Accident,2015,Oshikoto,1,0,1
+594,19,Accident,2015,Oshikoto,1,0,1
+595,22,Accident,2015,Oshikoto,1,1,2
+596,18,Illness,2015,Oshikoto,1,0,1
+597,9,Illness,2015,Oshikoto,0,2,2
+598,10,Illness,2015,Oshikoto,0,1,1
+599,17,Illness,2015,Oshikoto,1,0,1
+600,6,Accident,2016,Otjozondjupa,1,0,1
+601,14,Accident,2016,Otjozondjupa,0,0,0
+602,9,Accident,2016,Otjozondjupa,1,0,1
+603,6,Illness,2016,Otjozondjupa,1,0,1
+604,5,Illness,2016,Otjozondjupa,1,0,1
+605,10,Illness,2016,Otjozondjupa,1,0,1
+606,5,Illness,2016,Otjozondjupa,0,0,0
+607,14,Suicide,2016,Otjozondjupa,0,0,0
+608,18,Accident,2017,Otjozondjupa,0,1,1
+609,9,Accident,2017,Otjozondjupa,1,0,1
+610,13,Accident,2017,Otjozondjupa,1,0,1
+611,9,Accident,2017,Otjozondjupa,1,1,2
+612,13,Accident,2017,Otjozondjupa,0,0,0
+613,12,Illness,2017,Otjozondjupa,2,1,3
+614,13,Illness,2017,Otjozondjupa,2,0,2
+615,16,Illness,2017,Otjozondjupa,1,0,1
+616,14,Illness,2017,Otjozondjupa,0,1,1
+617,16,Violence & Homicide,2017,Otjozondjupa,0,1,1
+618,6,Accident,2014,Otjozondjupa,1,1,2
+619,14,Accident,2014,Otjozondjupa,0,0,0
+620,10,Accident,2014,Otjozondjupa,1,2,3
+621,6,Illness,2014,Otjozondjupa,1,1,2
+622,7,Illness,2014,Otjozondjupa,1,1,2
+623,9,Illness,2014,Otjozondjupa,2,0,2
+624,15,Illness,2014,Otjozondjupa,0,1,1
+625,14,Suicide,2014,Otjozondjupa,1,0,1
+626,19,Accident,2015,Otjozondjupa,0,1,1
+627,10,Accident,2015,Otjozondjupa,1,2,3
+628,13,Accident,2015,Otjozondjupa,1,1,2
+629,9,Accident,2015,Otjozondjupa,1,1,2
+630,20,Accident,2015,Otjozondjupa,0,0,0
+631,11,Illness,2015,Otjozondjupa,2,1,3
+632,15,Illness,2015,Otjozondjupa,2,0,2
+633,18,Illness,2015,Otjozondjupa,1,0,1
+634,15,Illness,2015,Otjozondjupa,0,1,1
+635,10,Violence & Homicide,2015,Otjozondjupa,0,1,1
+636,10,Accident,2016,Zambezi,0,1,1
+637,13,Accident,2016,Zambezi,1,0,1
+638,17,Accident,2016,Zambezi,0,1,1
+639,11,Accident,2016,Zambezi,0,0,0
+640,11,Illness,2016,Zambezi,8,5,13
+641,14,Illness,2016,Zambezi,3,1,4
+642,11,Suicide,2016,Zambezi,1,0,1
+643,17,Suicide,2016,Zambezi,0,1,1
+644,14,Violence & Homicide,2016,Zambezi,0,1,1
+645,11,Accident,2017,Zambezi,1,0,1
+646,20,Accident,2017,Zambezi,1,0,1
+647,21,Accident,2017,Zambezi,0,1,1
+648,12,Accident,2017,Zambezi,1,0,1
+649,9,Accident,2017,Zambezi,1,0,1
+650,14,Accident,2017,Zambezi,0,0,0
+651,15,Accident,2017,Zambezi,1,1,2
+652,15,Accident,2017,Zambezi,1,0,1
+653,8,Illness,2017,Zambezi,0,1,1
+654,13,Illness,2017,Zambezi,1,0,1
+655,13,Illness,2017,Zambezi,1,0,1
+656,16,Illness,2017,Zambezi,1,0,1
+657,21,Illness,2017,Zambezi,2,0,2
+658,13,Illness,2017,Zambezi,0,1,1
+659,19,Illness,2017,Zambezi,0,1,1
+660,23,Illness,2017,Zambezi,1,0,1
+661,18,Illness,2017,Zambezi,0,1,1
+662,16,Illness,2017,Zambezi,0,1,1
+663,18,Illness,2017,Zambezi,0,1,1
+664,17,Suicide,2017,Zambezi,0,1,1
+665,16,Suicide,2017,Zambezi,1,1,2
+666,15,Suicide,2017,Zambezi,0,0,0
+667,14,Violence & Homicide,2017,Zambezi,0,1,1
+668,10,Accident,2014,Zambezi,1,1,2
+669,13,Accident,2014,Zambezi,1,0,1
+670,11,Illness,2014,Zambezi,7,5,12
+671,14,Illness,2014,Zambezi,4,1,5
+672,11,Suicide,2014,Zambezi,2,0,2
+673,17,Suicide,2014,Zambezi,1,1,2
+674,14,Violence & Homicide,2014,Zambezi,1,1,2
+675,12,Accident,2015,Zambezi,2,0,2
+676,9,Accident,2015,Zambezi,2,0,2
+677,14,Accident,2015,Zambezi,0,0,0
+678,15,Accident,2015,Zambezi,0,1,1
+679,8,Illness,2015,Zambezi,0,1,1
+680,13,Illness,2015,Zambezi,2,0,2
+681,23,Illness,2015,Zambezi,1,0,1
+682,18,Illness,2015,Zambezi,1,1,2
+683,16,Illness,2015,Zambezi,1,1,2
+684,17,Suicide,2015,Zambezi,0,1,1
+685,16,Suicide,2015,Zambezi,1,1,2
+686,15,Suicide,2015,Zambezi,0,1,1
+687,14,Violence & Homicide,2015,Zambezi,1,1,2
