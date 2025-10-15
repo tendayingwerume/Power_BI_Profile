@@ -1,0 +1,12 @@
+assetgroup,client,groupname,assettype,depterm,deprate,residualrate,scheduletype
+Equipment - Payment,ZIMGV,Equipment - Payment,Tangible,4,0.25,0,Manual
+Furniture and Fixtures,ZIMGV,Furniture and Fixtures,Tangible,10,0.1,0,Manual
+Motor Vehicles,ZIMGV,Motor Vehicles,Tangible,4,0.25,0,Manual
+Equipment - Office,ZIMGV,Equipment - Office,Tangible,4,0.25,0,Manual
+Equipment - Computers,ZIMGV,Equipment - Computers,Tangible,4,0.25,0,Manual
+Equipment Security,ZIMGV,Equipment Security,Tangible,4,0.25,0,Manual
+Land and Buildings,ZIMGV,Land and Buildings,Tangible,20,0.05,0,Manual
+Software,ZIMGV,Software,Tangible,10,0.1,0,Manual
+IP,ZIMGV,Interllectual Property,Intangible,10,0.1,0,Manual
+Equipment - ICT,ZIMGV,Equipment - ICT,Tangible,4,0.25,0,Manual
+Equipment - Comms,ZIMGV,Equipment -Comms,Tangible,4,0.25,0,Manual
