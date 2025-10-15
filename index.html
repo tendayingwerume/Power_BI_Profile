@@ -100,7 +100,7 @@
             <div class="menu-ldiv" style="background-color:rgba(49,49,49);padding:1rem 1rem">
                 <div class="td-div menuitemdb-div" style="height:2rem;margin-bottom:2rem;border-style:solid;border-color:silver;border-width:thin;box-shadow:2px 4px"><span style="width:95%"><span style="text-wrap: nowrap;font-size:1.2rem"><b class="portfolio-title">BI PROJECTS PORTFOLIO</b></span></span></div>
 
-                <div style="margin-bottom:1rem"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap"><img src="images/flexy-asset-logo-mob.png"  class="dbitem-icon"></span></button></div>
+                <div style="margin-bottom:1rem"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap"><img src="images/flexyasset-logo-mob.png"  class="dbitem-icon"></span></button></div>
 
                <div style="margin-bottom:1rem"><button type="button" class="dbmenu-link" onclick="openUneMIS()"><span style="text-wrap: nowrap"><img src="images/unemis-logo-mob.jpg"  class="dbitem-icon"></span></button></div>
 
@@ -127,7 +127,7 @@
             <div class="menu-ldiv" style="background-color:rgba(49,49,49);padding:1rem 1rem;flex-direction:column;justify-content:space-evenly;align-items: center">
             <div style="width:95%;border-style:solid;border-width: 0 1px 1px 0;border-color:silver;box-shadow:2px 4px;margin:0 0 1rem 1rem;padding:1rem" class="portfolio-title"><b style="color:whitesmoke;font-size:3.5rem">BI PROJECTS PORTFOLIO</b></div>   
 
-                <div style="margin:0 0 3rem 3rem;text-align:center"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap"><img src="images/flexy-asset-logo-mob.png"  style="width:90%"></span></button></div>
+                <div style="margin:0 0 3rem 3rem;text-align:center"><button type="button" class="dbmenu-link" onclick="openFlexyAsset()"><span style="text-wrap: nowrap"><img src="images/flexyasset-logo-mob.png"  style="width:90%"></span></button></div>
 
                <div style="margin:0 0 3rem 3rem"><button type="button" class="dbmenu-link" onclick="openUneMIS()"><span style="text-wrap: nowrap"><img src="images/unemis-logo-mob.jpg"  style="width:90%"></span></button></div>
 
@@ -170,7 +170,7 @@
                 <section class="mainsec menu-rdiv" style="margin:0;min-width:80%">
                     <section class="main1" style="padding:0;margin:0 1rem 3rem 0;border-style:solid;border-width:thin;border-color:silver;background-color:silver">
                         <div width=100% style="background-color:rgba(49,49,49);color:white;padding:0 1rem;color:silver">FIXED ASSET PORTFOLIO</div>                 
-                        <div width=100%><p class="text-paragraph-s">This is a set of dashboards from a Fixed Asset Management system. It comprises 6 dashboards, each with four or more visuals. The dashboards include:<br>
+                        <div width=100%><p class="text-paragraph-s">This is a set of dashboards from the <a href="https://www.flexyasset.com">FlexyAsset Fixed Asset Management system.</a> This is a system that I have been developing as an upgrade to its desktop predecessor. I have included 6 dashboards, each with four or more visuals. The dashboards include:<br>
 
                         <ol class="text-paragraph-s">
                             <li><b>Portfolio Analysis </b> – provides a snapshot of the Asset Portfolio, including composition by Asset Group, Product Group and Operational Status.</li>
@@ -191,10 +191,26 @@
                         <div width=100% style="padding:0 1rem"><img src = "images/AssetDataModel.jpg" style="width:100%" > </div>
                        <div width=100%><p class="text-paragraph-s">Row Level Security is based on the following User Accounts table and relationships with Dimension Tables:<br>
                         <div width=100% style="padding:0 1rem"><img src = "images/RowLevelSecurity.jpg" style="width:100%" > </div>
-
-
                         </p>
                         </div>
+
+
+                        <div width=100% class="text-paragraph-s" style="font-size:0.9rem"><b>Files for Download</b> - You can download the following CSV files, which have sample data for the dashboards<br>
+                        <div> <a href="myfiles/assets.csv" download><i>Asset Master File</i></a></div>
+                        <div> <a href="myfiles/maintenance.csv" download><i>Maintenance Master File</i></a></div>
+                        <div> <a href="myfiles/companies.csv" download><i>Company Codes</i></a></div>
+                        <div> <a href="myfiles/assetgroups.csv" download><i>Asset Groups</i></a></div>
+                        <div> <a href="myfiles/datemaster.csv" download><i>Dates Master</i></a></div>
+                        
+                        
+                        
+                        
+                        </div>
+
+
+
+
+
                     </section>
                </section>
 
@@ -469,11 +485,27 @@ function showSlides() {
 
 
                         <div width=100%>
-                            <p class="text-paragraph">I am <b>Tendayi Ngwerume</b>, an experienced Software Developer with over 30 years in the IT industry. 
-                                My expertise spans custom software development, data analysis, and business intelligence, with a focus for the past eight years on Power BI, for impactful decicion-making.<br><br>
+                            <p class="text-paragraph-s">I am <b>Tendayi Ngwerume</b>, an experienced Software Developer with over 30 years in the IT industry. 
+                                My expertise spans custom software development, data analysis, and business intelligence, with a focus for the past eight years on Power BI, for impactful decision-making.<br><br>
                                 I am passionate about building systems that solve real problems, from operational process management systems to
-                                 insightful BI dashboards. Explore my work here to see practical examples of how I transform data and technology into clear, actionable insights.</p>
-                        </div>                    
+                                 insightful BI dashboards.</p> 
+                                 <p class="text-paragraph-s" style="margin-top:0.2rem">Explore my work here to see practical examples of how I transform data and technology into clear, actionable insights. In these projects, I demonstrated the following:</p>
+                                
+                                 <ul class="text-paragraph-s" style="margin-left:2rem">
+                                    <li style="margin-bottom:0.5rem">A Solid Semantic Data Model (Star) with Fact and Dimension Tables</li>
+                                    <li style="margin-bottom:0.5rem">Relationships with the right cardinality and cross-filter direction</li>
+                                    <li style="margin-bottom:0.5rem">Use of DAX measures for aggregation</li>
+                                    <li style="margin-bottom:0.5rem">Advanced DAX functions such as CALCULATE, FILTER, ALL, TOPN etc</li>
+                                    <li style="margin-bottom:0.5rem">Dynamic KPIs like Top N products by sales, YoY Growth, Dynamic Previous Period comparisons.</li>
+                                    <li style="margin-bottom:0.5rem">Use of Variables in Measures for readability and performance</li>
+                                    <li style="margin-bottom:0.5rem">Use of Date Table for time intelligence calculations and date-based analysis</li>
+                                    <li style="margin-bottom:0.5rem">Performance Optimization</li>
+                                    <li style="margin-bottom:0.5rem">Configuring Row Level Security (RLS) roles</li>
+                                    <li style="margin-bottom:0.5rem">Use of Workspaces, Apps and Deployment Pipelines in Power BI Service</li>
+                                    <li style="margin-bottom:0.5rem">Use of watermarks for branding</li>
+                                    <li style="margin-bottom:0.5rem">Embedding Power BI Reports into websites</li>
+                                </ul>
+                        </div>     </p>               
                     </section>
 
 
