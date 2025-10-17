@@ -951,7 +951,6 @@
       flex-direction: row;
       flex-wrap: nowrap;
       margin: 0 1%;
-      font-size: 4.6vw;
       font-family: sans-serif;
       padding-left: 0%;
       font-family: arial;
@@ -968,7 +967,6 @@
       flex-direction: row;
       flex-wrap: nowrap;
       margin: 0 1%;
-      font-size: 4.6vw;
       font-family: sans-serif;
       padding-left: 0%;
       font-family: arial;
@@ -3345,6 +3343,40 @@
     }
 
 
+    .intro-div {
+      width: 100%;
+      background: linear-gradient(to left top,
+          rgba(140, 211, 8, 0.8), rgba(253, 253, 253, 0.5));
+      border-radius: 0;
+      box-shadow: 6px 6px 5px rgba(122, 122, 122, 0.512);
+      animation: introdiv-ani 10s linear infinite;
+    }
+
+    @keyframes introdiv-ani {
+      0% {
+ 
+      }
+
+      25% {
+              background: linear-gradient(to left top,
+          rgba(253, 253, 253, 0.8), rgba(141, 139, 139, 0.5));
+      }
+
+      50% {
+              background: linear-gradient(to left top,
+          rgba(210, 126, 146, 0.8), rgba(253, 253, 253, 0.5));
+      }
+      75% {
+              background: linear-gradient(to left top,
+          rgba(41, 45, 91, 0.8), rgba(253, 253, 253, 0.5));
+      }
+
+      100% {
+              background: linear-gradient(to left top,
+          rgba(140, 211, 8, 0.8), rgba(253, 253, 253, 0.5));
+      }
+
+    }
 
 
 
@@ -3398,42 +3430,39 @@
       /*        animation: cardmaster-ani 10s linear infinite; */
     }
 
-    .cardmaster {
-      display: flex;
-      position: relative;
-      flex-direction: column;
-      flex-wrap: wrap;
-      width: 90%;
+    .intro-div {
+      width: 100%;
       background: linear-gradient(to left top,
-          rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.5));
-      border-radius: 1rem;
-      margin: 2rem 1rem;
-      padding: 1rem;
+          rgba(140, 211, 8, 0.8), rgba(253, 253, 253, 0.5));
+      border-radius: 0;
       box-shadow: 6px 6px 5px rgba(122, 122, 122, 0.512);
-      justify-content: space-between;
-      /*        animation: cardmaster-ani 10s linear infinite; */
+      animation: introdiv-ani 10s linear infinite;
     }
 
-    @keyframes cardmaster-ani {
+    @keyframes introdiv-ani {
       0% {
-        transform: translateX(0px);
+ 
       }
 
-      45% {
-        transform: translateX(0px);
+      25% {
+              background: linear-gradient(to left top,
+          rgba(253, 253, 253, 0.8), rgba(141, 139, 139, 0.5));
       }
 
       50% {
-        transform: translateX(-800px) rotateY(-360deg);
+              background: linear-gradient(to left top,
+          rgba(210, 126, 146, 0.8), rgba(253, 253, 253, 0.5));
       }
-
-      95% {
-        transform: translateX(-800px) rotateY(-360deg);
+      75% {
+              background: linear-gradient(to left top,
+          rgba(41, 45, 91, 0.8), rgba(253, 253, 253, 0.5));
       }
 
       100% {
-        transform: translateX(0px);
+              background: linear-gradient(to left top,
+          rgba(140, 211, 8, 0.8), rgba(253, 253, 253, 0.5));
       }
+
     }
 
 
@@ -3484,6 +3513,7 @@
       flex-direction: column;
       padding: 0;
       margin:0;
+      justify-content: flex-start;
     }
 
 
@@ -3537,7 +3567,7 @@
     }
 
     .h2-text {
-      font-size:1.5rem;
+      font-size:1.2rem;
     }
 
     #MainPages {
@@ -4956,7 +4986,7 @@
 
     .text-paragraph {
       font-family: calibri;
-      font-size: 1.2rem;
+      font-size: 0.8rem;
       line-height: 120%;
       text-align: justify;
       padding: 0% 2%;
@@ -4965,11 +4995,10 @@
 
     .text-paragraph-s {
       font-family: calibri;
-      font-size: 0.5rem;
+      font-size: 1.2rem;
       text-align: justify;
       line-height: 120%;
-      text-align: justify;
-      padding: 0 0.5rem;
+      padding: 0 2rem;
       color:rgba(76,76,76);
     }
 
@@ -6802,7 +6831,6 @@
       width: 28%;
             max-width: 50%;
       margin: 0% 0.5%;
-      font-size: 1.2vw;
       font-family: sans-serif;
       padding-left: 0%;
       font-family: arial;
@@ -6818,7 +6846,6 @@
       width: 28%;
       max-width: 50%;
       margin: 0% 0.5%;
-      font-size: 1.2vw;
       font-family: sans-serif;
       padding-left: 0%;
       font-family: arial;
