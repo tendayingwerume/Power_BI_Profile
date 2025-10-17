@@ -4965,11 +4965,11 @@
 
     .text-paragraph-s {
       font-family: calibri;
-      font-size: 1rem;
+      font-size: 0.5rem;
       text-align: justify;
       line-height: 120%;
       text-align: justify;
-      padding: 0 2rem;
+      padding: 0 0.5rem;
       color:rgba(76,76,76);
     }
 
